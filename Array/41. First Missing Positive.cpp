@@ -48,7 +48,7 @@ public:
             }
         }
 
-        if (!contains1)
+        if (!contains1) // contains1 = false
             return 1;
 
         // Mark whether integers 1 to n are in nums
