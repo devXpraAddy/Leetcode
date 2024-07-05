@@ -1,24 +1,19 @@
-// https://leetcode.com/problems/merge-intervals/description/?envType=study-plan-v2&envId=top-interview-150
+// https://leetcode.com/problems/insert-interval/description/?envType=study-plan-v2&envId=top-interview-150
 
 class Solution
 {
 public:
-    bool IsOverlap(vector<int> &i1, vector<int> &i2)
+    bool isOverlap(vector<int> &i1, vector<int> &i2)
     {
         if (i2[0] <= i1[1])
-        {
             return true;
-        }
-        else
-            return false;
+        return false;
     }
 
-    vector<vector<int>> merge(vector<vector<int>> &intervals)
+    vector<vector<int>> insert(vector<vector<int>> &intervals, vector<int> &newInterval)
     {
+        intervals.push_back(newInterval);
         sort(intervals.begin(), intervals.end());
-
-        if (intervals.empty())
-            return intervals;
 
         vector<vector<int>> mergedList;
 
@@ -27,8 +22,7 @@ public:
         for (int i = 0; i < intervals.size(); i++)
         {
             vector<int> curr = intervals[i];
-
-            if (IsOverlap(prev, curr))
+            if (isOverlap(prev, curr))
             {
                 prev[1] = max(prev[1], curr[1]);
             }
@@ -39,7 +33,6 @@ public:
             }
         }
         mergedList.push_back(prev);
-
         return mergedList;
     }
 };
