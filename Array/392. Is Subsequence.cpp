@@ -15,6 +15,7 @@ public:
             if (s[i] == t[j])
             {
                 i++;
+                j++;
             }
             else
             {
