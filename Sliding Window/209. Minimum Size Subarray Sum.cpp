@@ -5,26 +5,16 @@ class Solution
 public:
     int minSubArrayLen(int target, vector<int> &nums)
     {
-        int n = nums.size();
-
-        int i = 0, j = 0;
-
-        int sum = 0;
-        int minL = n + 1;
-
-        while (j < n)
+        int i = 0, sum = 0, mini = INT_MAX;
+        for (int j = 0; j < nums.size(); j++)
         {
             sum += nums[j];
-
             while (sum >= target)
             {
-                minL = min(minL, j - i + 1);
-                sum -= nums[i];
-                i++;
+                mini = min(mini, j - i + 1);
+                sum -= nums[i++];
             }
-
-            j++;
         }
-        return minL == n + 1 ? 0 : minL;
+        return mini == INT_MAX ? 0 : mini;
     }
 };
