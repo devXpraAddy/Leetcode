@@ -23,6 +23,7 @@ public:
     {
         this->name = name;
         *cgpaPtr = new double;
+
         cgpaPtr = cgpa;
     }
 };
