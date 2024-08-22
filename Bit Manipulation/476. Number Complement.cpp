@@ -1,0 +1,16 @@
+// https://leetcode.com/problems/number-complement/description/?envType=daily-question&envId=2024-08-22
+
+class Solution
+{
+public:
+    int findComplement(int num)
+    {
+        int number_of_bits = (int)(log2(num)) + 1;
+
+        for (int i = 0; i < number_of_bits; i++)
+        {
+            num = num ^ (1 << i); // Take Xor to flip
+        }
+        return num;
+    }
+};
