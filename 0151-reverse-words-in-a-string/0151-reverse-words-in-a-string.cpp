@@ -2,16 +2,16 @@ class Solution {
 public:
     string reverseWords(string s) {
         string result = "", word = "";
-        for (int i = 0; i <= s.length(); i++) {
-            if (i == s.length() || s[i] == ' ') {
+        for (int i = 0; i <= s.size(); i++) {
+            if (i == s.size() || s[i] == ' ') {
                 if (!word.empty()) {
                     result = word + " " + result;
                     word = "";
                 }
-            } else {
+            }else{
                 word += s[i];
             }
         }
-        return result.substr(0,result.length() - 1); // Remove the trailing space
+        return result.substr(0, result.size()-1);
     }
 };
