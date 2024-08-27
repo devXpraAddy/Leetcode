@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/devXpraAddy/Leetcode/tree/master/0231-power-of-two) |
 | [0564-find-the-closest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
 ## String
@@ -45,9 +46,14 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/devXpraAddy/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/devXpraAddy/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
