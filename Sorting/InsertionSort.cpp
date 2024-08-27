@@ -14,7 +14,7 @@ public:
             int j = i - 1;
             while (j >= 0 && nums[j] > temp)
             {
-                nums[j + 1] = nums[j];
+                nums[j + 1] = nums[j]; // shifting towards right
                 j--;
             }
             nums[j + 1] = temp;
