@@ -26,12 +26,14 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/devXpraAddy/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/devXpraAddy/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/devXpraAddy/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/devXpraAddy/Leetcode/tree/master/2035-count-sub-islands) |
@@ -42,6 +44,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/devXpraAddy/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +90,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/devXpraAddy/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [2035-count-sub-islands](https://github.com/devXpraAddy/Leetcode/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
