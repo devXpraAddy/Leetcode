@@ -5,9 +5,9 @@ public:
         for(int i = 0; i<chalk.size(); i++){
             sum+= chalk[i];
         }
-        k = (long long)k%sum;
+        k = k%sum;
         for(int i = 0;i<chalk.size(); i++){
-            if((long long)k < chalk[i]){
+            if(k < chalk[i]){
                 return i;
             }
             k -= chalk[i];
