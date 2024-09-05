@@ -9,6 +9,7 @@
 | [0326-power-of-three](https://github.com/devXpraAddy/Leetcode/tree/master/0326-power-of-three) |
 | [0564-find-the-closest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
+| [2155-find-missing-observations](https://github.com/devXpraAddy/Leetcode/tree/master/2155-find-missing-observations) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/devXpraAddy/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/devXpraAddy/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/devXpraAddy/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/devXpraAddy/Leetcode/tree/master/2155-find-missing-observations) |
 ## Graph
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/devXpraAddy/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/devXpraAddy/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/devXpraAddy/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/devXpraAddy/Leetcode/tree/master/2155-find-missing-observations) |
 ## Binary Search
 |  |
 | ------- |
