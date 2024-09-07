@@ -59,6 +59,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/devXpraAddy/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -170,5 +171,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/devXpraAddy/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devXpraAddy/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
