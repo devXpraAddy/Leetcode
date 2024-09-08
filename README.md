@@ -196,6 +196,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/devXpraAddy/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devXpraAddy/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
