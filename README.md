@@ -104,6 +104,7 @@
 | [2035-count-sub-islands](https://github.com/devXpraAddy/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/devXpraAddy/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/devXpraAddy/Leetcode/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/devXpraAddy/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devXpraAddy/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
@@ -141,6 +142,7 @@
 | [0037-sudoku-solver](https://github.com/devXpraAddy/Leetcode/tree/master/0037-sudoku-solver) |
 | [2035-count-sub-islands](https://github.com/devXpraAddy/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/devXpraAddy/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/devXpraAddy/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/devXpraAddy/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/devXpraAddy/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/devXpraAddy/Leetcode/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/devXpraAddy/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,5 +202,6 @@
 | [0234-palindrome-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/devXpraAddy/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/devXpraAddy/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devXpraAddy/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
