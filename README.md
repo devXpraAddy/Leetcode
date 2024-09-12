@@ -16,6 +16,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0564-find-the-closest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/devXpraAddy/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/devXpraAddy/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
 |  |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/devXpraAddy/Leetcode/tree/master/0231-power-of-two) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/devXpraAddy/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/devXpraAddy/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Array
 |  |
@@ -102,6 +104,7 @@
 | [0485-max-consecutive-ones](https://github.com/devXpraAddy/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0906-walking-robot-simulation](https://github.com/devXpraAddy/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/devXpraAddy/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/devXpraAddy/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/devXpraAddy/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/devXpraAddy/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/devXpraAddy/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -154,6 +157,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0906-walking-robot-simulation](https://github.com/devXpraAddy/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/devXpraAddy/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/devXpraAddy/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devXpraAddy/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -211,4 +215,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/devXpraAddy/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
