@@ -279,4 +279,5 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/devXpraAddy/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/devXpraAddy/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
