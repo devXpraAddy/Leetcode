@@ -6,8 +6,7 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
@@ -17,20 +16,19 @@ public:
         stack<TreeNode*> st;
 
         TreeNode* node = root;
-        while (true) {
-            if (node != NULL) {
+
+        while(true){
+            if(node != NULL){
                 st.push(node);
-                node = node->left;
-            } else {
-                if (st.empty())
-                    break;
+                node = node -> left;
+            }else{
+                if(st.empty()) break;
                 node = st.top();
                 st.pop();
                 result.push_back(node->val);
-                node = node->right;
+                node = node ->right;
             }
         }
-
         return result;
     }
 };
