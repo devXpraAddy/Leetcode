@@ -339,5 +339,6 @@
 ## Database
 |  |
 | ------- |
+| [0626-exchange-seats](https://github.com/devXpraAddy/Leetcode/tree/master/0626-exchange-seats) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/devXpraAddy/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
