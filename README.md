@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devXpraAddy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/devXpraAddy/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
 | [2755-extra-characters-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -131,6 +132,7 @@
 | [0088-merge-sorted-array](https://github.com/devXpraAddy/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devXpraAddy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/devXpraAddy/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/devXpraAddy/Leetcode/tree/master/0485-max-consecutive-ones) |
