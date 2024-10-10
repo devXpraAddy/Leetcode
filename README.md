@@ -45,6 +45,7 @@
 | [0234-palindrome-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devXpraAddy/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/devXpraAddy/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/devXpraAddy/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/devXpraAddy/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/devXpraAddy/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -157,6 +158,7 @@
 | [0731-my-calendar-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/devXpraAddy/Leetcode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/devXpraAddy/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [1002-maximum-width-ramp](https://github.com/devXpraAddy/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/devXpraAddy/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -385,4 +387,8 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/devXpraAddy/Leetcode/tree/master/0567-permutation-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/devXpraAddy/Leetcode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
