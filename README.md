@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/devXpraAddy/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/devXpraAddy/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/devXpraAddy/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/devXpraAddy/Leetcode/tree/master/0326-power-of-three) |
@@ -17,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/devXpraAddy/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/devXpraAddy/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -145,6 +147,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/devXpraAddy/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/devXpraAddy/Leetcode/tree/master/0231-power-of-two) |
 | [1435-xor-queries-of-a-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/devXpraAddy/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -281,6 +284,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/devXpraAddy/Leetcode/tree/master/0067-add-binary) |
 | [0906-walking-robot-simulation](https://github.com/devXpraAddy/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/devXpraAddy/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/devXpraAddy/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
