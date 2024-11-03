@@ -27,6 +27,7 @@
 | [0539-minimum-time-difference](https://github.com/devXpraAddy/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/devXpraAddy/Leetcode/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/devXpraAddy/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/devXpraAddy/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devXpraAddy/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/devXpraAddy/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -419,6 +420,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/devXpraAddy/Leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
