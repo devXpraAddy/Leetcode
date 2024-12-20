@@ -92,6 +92,7 @@
 | [0617-merge-two-binary-trees](https://github.com/devXpraAddy/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/devXpraAddy/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/devXpraAddy/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -114,6 +115,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/devXpraAddy/Leetcode/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/devXpraAddy/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/devXpraAddy/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -131,6 +133,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/devXpraAddy/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/devXpraAddy/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/devXpraAddy/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -337,6 +340,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/devXpraAddy/Leetcode/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devXpraAddy/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/devXpraAddy/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/devXpraAddy/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
