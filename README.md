@@ -221,6 +221,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devXpraAddy/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/devXpraAddy/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/devXpraAddy/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/devXpraAddy/Leetcode/tree/master/0231-power-of-two) |
 | [1435-xor-queries-of-a-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -248,6 +249,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devXpraAddy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/devXpraAddy/Leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/devXpraAddy/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devXpraAddy/Leetcode/tree/master/0217-contains-duplicate) |
