@@ -6,7 +6,7 @@ public:
             int cnt0 = 0;
             int cnt1 = 0;
             int temp = (1<<k);
-            for(int& num: nums){
+            for(int num: nums){
                 if((num & temp) == 0){
                     cnt0++;
                 }else{
