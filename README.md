@@ -263,6 +263,7 @@
 | [0217-contains-duplicate](https://github.com/devXpraAddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/devXpraAddy/Leetcode/tree/master/0260-single-number-iii) |
+| [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/devXpraAddy/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/devXpraAddy/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -371,6 +372,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/devXpraAddy/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devXpraAddy/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devXpraAddy/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -403,6 +405,7 @@
 | [0100-same-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0617-merge-two-binary-trees](https://github.com/devXpraAddy/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -424,6 +427,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/devXpraAddy/Leetcode/tree/master/0037-sudoku-solver) |
+| [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devXpraAddy/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/devXpraAddy/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
