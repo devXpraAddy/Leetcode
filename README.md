@@ -230,6 +230,7 @@
 | [0260-single-number-iii](https://github.com/devXpraAddy/Leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/devXpraAddy/Leetcode/tree/master/0338-counting-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/devXpraAddy/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/devXpraAddy/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/devXpraAddy/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/devXpraAddy/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -287,6 +288,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devXpraAddy/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/devXpraAddy/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/devXpraAddy/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/devXpraAddy/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/devXpraAddy/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -576,6 +578,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devXpraAddy/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/devXpraAddy/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/devXpraAddy/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/devXpraAddy/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/devXpraAddy/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/devXpraAddy/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -622,6 +625,7 @@
 | [0229-majority-element-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/devXpraAddy/Leetcode/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/devXpraAddy/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/devXpraAddy/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1502-construct-k-palindrome-strings](https://github.com/devXpraAddy/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/devXpraAddy/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/devXpraAddy/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
