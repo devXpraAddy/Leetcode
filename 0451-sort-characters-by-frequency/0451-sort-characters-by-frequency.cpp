@@ -1,0 +1,19 @@
+class Solution {
+public:
+    string frequencySort(string s) {
+        unordered_map<char, int> mp;
+
+        for(int i =0; i<s.size(); i++){
+            // mp[s -'a']++; // this is done when we are using vector in place of map
+            mp[s[i]]++;
+        }
+        sort(s.begin(), s.end(), [&](char & a, char &b){
+            if(mp[a] == mp[b]){
+                return a < b;
+            }else{
+                return mp[a] > mp[b];
+            }
+        });
+        return s;
+    }
+};
