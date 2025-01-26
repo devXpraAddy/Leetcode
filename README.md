@@ -302,6 +302,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/devXpraAddy/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/devXpraAddy/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/devXpraAddy/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/devXpraAddy/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/devXpraAddy/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/devXpraAddy/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -491,6 +492,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/devXpraAddy/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/devXpraAddy/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/devXpraAddy/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/devXpraAddy/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/devXpraAddy/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devXpraAddy/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -602,6 +604,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/devXpraAddy/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/devXpraAddy/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2164-two-best-non-overlapping-events](https://github.com/devXpraAddy/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/devXpraAddy/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/devXpraAddy/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
