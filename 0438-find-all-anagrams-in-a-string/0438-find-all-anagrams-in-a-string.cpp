@@ -1,32 +1,34 @@
-//Similar to normal sliding window qns
 class Solution {
 public:
+    bool allzero(vector<int> & cnt){
+        for(int i = 0; i<cnt.size(); i++){
+            if(cnt[i] != 0){
+                return false;
+            }
+        }
+        return true;
+    }
     vector<int> findAnagrams(string s, string p) {
-        vector<int> arr(26, 0);
-        
-        int m = s.length();
-        int n = p.length();
-        
-        for(char &ch : p)
-            arr[ch-'a']++;
-        
+        int n = s.size();
+        int k = p.size();
+        vector<int> cnt(26, 0);
+        for(int i = 0; i<p.size(); i++){
+            cnt[p[i] - 'a']++;
+        }
+        vector<int> res;
         int i = 0, j = 0;
-        vector<int> result;
-        
-        while(j < m) {
-            arr[s[j] - 'a']--;
-            
-            if(j-i+1 == n) {
-                if(arr == vector<int>(26, 0)) {
-                    result.push_back(i);
+
+        while(j<n){
+            cnt[s[j] - 'a']--;
+            if(j-i+1 == k){
+                if(allzero(cnt)){
+                    res.push_back(i);
                 }
-                
-                arr[s[i]-'a']++;
+                cnt[s[i] - 'a']++;
                 i++;
             }
             j++;
         }
-        
-        return result;
+        return res;
     }
 };
