@@ -329,6 +329,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/devXpraAddy/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/devXpraAddy/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/devXpraAddy/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/devXpraAddy/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/devXpraAddy/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/devXpraAddy/Leetcode/tree/master/1944-truncate-sentence) |
 | [1972-rotating-the-box](https://github.com/devXpraAddy/Leetcode/tree/master/1972-rotating-the-box) |
