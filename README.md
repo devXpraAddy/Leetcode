@@ -184,6 +184,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/devXpraAddy/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/devXpraAddy/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/devXpraAddy/Leetcode/tree/master/0567-permutation-in-string) |
@@ -568,6 +569,7 @@
 | [0053-maximum-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/devXpraAddy/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/devXpraAddy/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/devXpraAddy/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -644,6 +646,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/devXpraAddy/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devXpraAddy/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/devXpraAddy/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/devXpraAddy/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/devXpraAddy/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -686,6 +689,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/devXpraAddy/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -867,4 +871,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/devXpraAddy/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
