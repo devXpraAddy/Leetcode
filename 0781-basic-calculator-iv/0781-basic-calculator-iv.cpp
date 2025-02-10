@@ -1,212 +1,204 @@
-#include <iostream>
-#include <vector>
-#include <string>
-#include <unordered_map>
-#include <algorithm>
-#include <sstream>
-#include <stack>
-#include <map>
-
-using namespace std;
-
 class Solution {
 public:
     vector<string> basicCalculatorIV(string expression, vector<string>& evalvars, vector<int>& evalints) {
-        // Step 1: Build the evaluation map
-        unordered_map<string, int> evalMap;
-        for (int i = 0; i < evalvars.size(); ++i) {
-            evalMap[evalvars[i]] = evalints[i];
+        // Build an evaluation map for variables to numbers.
+        unordered_map<string, int> eval;
+        for (int i = 0; i < evalvars.size(); i++) {
+            eval[evalvars[i]] = evalints[i];
         }
-
-        // Step 2: Parse the expression into tokens
-        vector<string> tokens = parseExpression(expression);
-
-        // Step 3: Evaluate the expression using a stack-based approach
-        vector<string> result = evaluate(tokens, evalMap);
-
-        return result;
-    }
-
-private:
-    // Struct to represent a term in the polynomial
-    struct Term {
-        int coefficient; // Coefficient of the term
-        vector<string> variables; // Variables in the term, sorted lexicographically
-
-        // Constructor for a constant term
-        Term(int coeff) : coefficient(coeff) {}
-
-        // Constructor for a term with variables
-        Term(int coeff, const vector<string>& vars) : coefficient(coeff), variables(vars) {}
-
-        // Compare two terms for sorting
-        bool operator<(const Term& other) const {
-            if (variables.size() != other.variables.size()) {
-                return variables.size() > other.variables.size(); // Larger degree first
-            }
-            return variables < other.variables; // Lexicographical order
-        }
-
-        // Multiply two terms
-        Term multiply(const Term& other) const {
-            vector<string> newVars = variables;
-            newVars.insert(newVars.end(), other.variables.begin(), other.variables.end());
-            sort(newVars.begin(), newVars.end());
-            return Term(coefficient * other.coefficient, newVars);
-        }
-
-        // Format the term as a string
-        string toString() const {
-            if (coefficient == 0) return "";
-            string result = to_string(coefficient);
-            for (const string& var : variables) {
-                result += "*" + var;
-            }
-            return result;
-        }
-    };
-
-    // Helper function to parse the expression into tokens
-    vector<string> parseExpression(const string& expression) {
+        
+        // Tokenize the expression.
+        // Tokens can be numbers, variables, or one of the symbols: +, -, *, (, )
         vector<string> tokens;
-        string token;
-        for (char c : expression) {
-            if (c == ' ') continue; // Skip spaces
-            if (isdigit(c) || islower(c)) {
-                token += c; // Build numbers or variables
+        for (int i = 0; i < expression.size(); ) {
+            if (expression[i] == ' ') {
+                i++;
+            } else if (expression[i]=='+' || expression[i]=='-' || expression[i]=='*' ||
+                       expression[i]=='(' || expression[i]==')') {
+                tokens.push_back(string(1, expression[i]));
+                i++;
             } else {
-                if (!token.empty()) {
-                    tokens.push_back(token);
-                    token.clear();
-                }
-                tokens.push_back(string(1, c)); // Add operators or parentheses
+                int j = i;
+                while (j < expression.size() && isalnum(expression[j])) j++;
+                tokens.push_back(expression.substr(i, j - i));
+                i = j;
             }
         }
-        if (!token.empty()) tokens.push_back(token); // Add the last token
-        return tokens;
-    }
-
-    // Helper function to evaluate the tokens with the given evaluation map
-    vector<string> evaluate(const vector<string>& tokens, const unordered_map<string, int>& evalMap) {
-        stack<vector<Term>> operands; // Stack for operands (polynomials)
-        stack<char> operators;       // Stack for operators
-
-        auto applyOperator = [&](char op) {
-            vector<Term> b = operands.top(); operands.pop();
-            vector<Term> a = operands.top(); operands.pop();
-            if (op == '+') {
-                a = addPolynomials(a, b);
-            } else if (op == '-') {
-                a = subtractPolynomials(a, b);
-            } else if (op == '*') {
-                a = multiplyPolynomials(a, b);
-            }
-            operands.push(a);
-        };
-
-        for (const string& token : tokens) {
-            if (isNumber(token)) {
-                operands.push({Term(stoi(token))});
-            } else if (isVariable(token)) {
-                if (evalMap.count(token)) {
-                    operands.push({Term(evalMap.at(token))});
-                } else {
-                    operands.push({Term(1, {token})});
+        
+        int pos = 0;
+        Poly poly = parseExpr(tokens, pos, eval);
+        
+        // Convert the internal polynomial representation into the final result.
+        // Each term is stored with a key (e.g. "a*b" for a term a*b) or "" for a constant.
+        // We break each key into its list of variables (if non-empty) to use for sorting.
+        vector<pair<vector<string>, int>> polyTerms;
+        for (auto &term : poly) {
+            if (term.second == 0)
+                continue;
+            vector<string> vars;
+            if (!term.first.empty()) {
+                int start = 0;
+                for (int i = 0; i <= term.first.size(); i++) {
+                    if (i == term.first.size() || term.first[i] == '*') {
+                        vars.push_back(term.first.substr(start, i - start));
+                        start = i + 1;
+                    }
                 }
-            } else if (token == "(") {
-                operators.push('(');
-            } else if (token == ")") {
-                while (operators.top() != '(') {
-                    applyOperator(operators.top());
-                    operators.pop();
-                }
-                operators.pop(); // Pop the '('
-            } else { // Operator (+, -, *)
-                while (!operators.empty() && precedence(operators.top()) >= precedence(token[0])) {
-                    applyOperator(operators.top());
-                    operators.pop();
-                }
-                operators.push(token[0]);
             }
+            polyTerms.push_back({vars, term.second});
         }
-
-        while (!operators.empty()) {
-            applyOperator(operators.top());
-            operators.pop();
-        }
-
-        // Convert the final polynomial to the output format
-        return formatPolynomial(operands.top());
-    }
-
-    // Helper function to determine operator precedence
-    int precedence(char op) {
-        if (op == '+' || op == '-') return 1;
-        if (op == '*') return 2;
-        return 0;
-    }
-
-    // Helper function to add two polynomials
-    vector<Term> addPolynomials(const vector<Term>& a, const vector<Term>& b) {
-        map<vector<string>, int> terms;
-        for (const Term& term : a) terms[term.variables] += term.coefficient;
-        for (const Term& term : b) terms[term.variables] += term.coefficient;
-        return buildPolynomialFromMap(terms);
-    }
-
-    // Helper function to subtract two polynomials
-    vector<Term> subtractPolynomials(const vector<Term>& a, const vector<Term>& b) {
-        map<vector<string>, int> terms;
-        for (const Term& term : a) terms[term.variables] += term.coefficient;
-        for (const Term& term : b) terms[term.variables] -= term.coefficient;
-        return buildPolynomialFromMap(terms);
-    }
-
-    // Helper function to multiply two polynomials
-    vector<Term> multiplyPolynomials(const vector<Term>& a, const vector<Term>& b) {
-        map<vector<string>, int> terms;
-        for (const Term& t1 : a) {
-            for (const Term& t2 : b) {
-                Term product = t1.multiply(t2);
-                terms[product.variables] += product.coefficient;
-            }
-        }
-        return buildPolynomialFromMap(terms);
-    }
-
-    // Helper function to build a polynomial from a map
-    vector<Term> buildPolynomialFromMap(const map<vector<string>, int>& terms) {
-        vector<Term> result;
-        for (const auto& [vars, coeff] : terms) {
-            if (coeff != 0) result.emplace_back(Term(coeff, vars));
-        }
-        sort(result.begin(), result.end());
-        return result;
-    }
-
-    // Helper function to format the polynomial as a vector of strings
-    vector<string> formatPolynomial(const vector<Term>& polynomial) {
+        
+        // Sort: first by descending degree, then lexicographically by the variables.
+        sort(polyTerms.begin(), polyTerms.end(), [](const pair<vector<string>, int>& a,
+                                                      const pair<vector<string>, int>& b) {
+            if (a.first.size() != b.first.size())
+                return a.first.size() > b.first.size();
+            return a.first < b.first;
+        });
+        
         vector<string> result;
-        for (const Term& term : polynomial) {
-            string formatted = term.toString();
-            if (!formatted.empty()) result.push_back(formatted);
+        for (auto &p : polyTerms) {
+            string termStr = to_string(p.second);
+            for (auto &var : p.first) {
+                termStr += "*" + var;
+            }
+            result.push_back(termStr);
         }
+        
         return result;
     }
-
-    // Helper function to check if a string is a number
-    bool isNumber(const string& s) {
-        for (char c : s) {
-            if (!isdigit(c)) return false;
+    
+private:
+    // Represent a polynomial as a map:
+    // Key: a string representing sorted free variables (concatenated with '*' as separator), 
+    //      with an empty string representing the constant term.
+    // Value: the integer coefficient.
+    using Poly = map<string, int>;
+    
+    // Helper: add two polynomials.
+    Poly addPoly(const Poly &a, const Poly &b) {
+        Poly res = a;
+        for (auto &p : b) {
+            res[p.first] += p.second;
+            if (res[p.first] == 0)
+                res.erase(p.first);
         }
-        return !s.empty();
+        return res;
     }
-
-    // Helper function to check if a string is a variable
-    bool isVariable(const string& s) {
-        for (char c : s) {
-            if (!islower(c)) return false;
+    
+    // Helper: subtract polynomial b from polynomial a.
+    Poly subPoly(const Poly &a, const Poly &b) {
+        Poly res = a;
+        for (auto &p : b) {
+            res[p.first] -= p.second;
+            if (res[p.first] == 0)
+                res.erase(p.first);
         }
-        return !s.empty();
+        return res;
+    }
+    
+    // Helper: multiply two polynomials.
+    Poly mulPoly(const Poly &a, const Poly &b) {
+        Poly res;
+        for (auto &p : a) {
+            for (auto &q : b) {
+                int coeff = p.second * q.second;
+                string key;
+                if (p.first == "" && q.first == "") {
+                    key = "";
+                } else if (p.first == "") {
+                    key = q.first;
+                } else if (q.first == "") {
+                    key = p.first;
+                } else {
+                    // Combine variables from both terms.
+                    vector<string> vars;
+                    splitKey(p.first, vars);
+                    vector<string> vars2;
+                    splitKey(q.first, vars2);
+                    vars.insert(vars.end(), vars2.begin(), vars2.end());
+                    sort(vars.begin(), vars.end());
+                    key = join(vars, "*");
+                }
+                res[key] += coeff;
+                if (res[key] == 0)
+                    res.erase(key);
+            }
+        }
+        return res;
+    }
+    
+    // Splits a key string (e.g., "a*b*c") into its component variables.
+    static void splitKey(const string &s, vector<string>& tokens) {
+        string token;
+        for (char c : s) {
+            if (c == '*') {
+                tokens.push_back(token);
+                token.clear();
+            } else {
+                token.push_back(c);
+            }
+        }
+        if (!token.empty()) tokens.push_back(token);
+    }
+    
+    // Joins a list of strings using sep as the delimiter.
+    static string join(const vector<string> &tokens, const string &sep) {
+        string res;
+        for (int i = 0; i < tokens.size(); i++) {
+            if (i > 0)
+                res += sep;
+            res += tokens[i];
+        }
+        return res;
+    }
+    
+    // parseExpr handles addition and subtraction.
+    Poly parseExpr(const vector<string>& tokens, int &pos, unordered_map<string, int>& eval) {
+        Poly poly = parseTerm(tokens, pos, eval);
+        while (pos < tokens.size() && (tokens[pos] == "+" || tokens[pos] == "-")) {
+            string op = tokens[pos++];
+            Poly term = parseTerm(tokens, pos, eval);
+            if (op == "+")
+                poly = addPoly(poly, term);
+            else
+                poly = subPoly(poly, term);
+        }
+        return poly;
+    }
+    
+    // parseTerm handles multiplication.
+    Poly parseTerm(const vector<string>& tokens, int &pos, unordered_map<string, int>& eval) {
+        Poly poly = parseFactor(tokens, pos, eval);
+        while (pos < tokens.size() && tokens[pos] == "*") {
+            pos++; // skip "*"
+            Poly factor = parseFactor(tokens, pos, eval);
+            poly = mulPoly(poly, factor);
+        }
+        return poly;
+    }
+    
+    // parseFactor handles numbers, variables, and parenthesized expressions.
+    Poly parseFactor(const vector<string>& tokens, int &pos, unordered_map<string, int>& eval) {
+        Poly poly;
+        string token = tokens[pos++];
+        if (token == "(") {
+            poly = parseExpr(tokens, pos, eval);
+            pos++; // skip the corresponding ")"
+        } else {
+            if (isdigit(token[0])) {
+                int val = stoi(token);
+                poly[""] = val;
+            } else {
+                // Check if the variable has a substitution.
+                if (eval.count(token)) {
+                    int val = eval[token];
+                    poly[""] = val;
+                } else {
+                    poly[token] = 1;
+                }
+            }
+        }
+        return poly;
     }
 };
