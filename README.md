@@ -12,6 +12,7 @@
 | [0539-minimum-time-difference](https://github.com/devXpraAddy/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0670-maximum-swap](https://github.com/devXpraAddy/Leetcode/tree/master/0670-maximum-swap) |
+| [0781-basic-calculator-iv](https://github.com/devXpraAddy/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
 | [2155-find-missing-observations](https://github.com/devXpraAddy/Leetcode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -31,6 +32,7 @@
 | [0539-minimum-time-difference](https://github.com/devXpraAddy/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/devXpraAddy/Leetcode/tree/master/0567-permutation-in-string) |
+| [0781-basic-calculator-iv](https://github.com/devXpraAddy/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0812-rotate-string](https://github.com/devXpraAddy/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/devXpraAddy/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/devXpraAddy/Leetcode/tree/master/0952-word-subsets) |
@@ -88,6 +90,7 @@
 | [0496-next-greater-element-i](https://github.com/devXpraAddy/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/devXpraAddy/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0781-basic-calculator-iv](https://github.com/devXpraAddy/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devXpraAddy/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/devXpraAddy/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/devXpraAddy/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -233,6 +236,7 @@
 | [0234-palindrome-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/devXpraAddy/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/devXpraAddy/Leetcode/tree/master/0326-power-of-three) |
+| [0781-basic-calculator-iv](https://github.com/devXpraAddy/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/devXpraAddy/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/devXpraAddy/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -529,6 +533,7 @@
 | [0567-permutation-in-string](https://github.com/devXpraAddy/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/devXpraAddy/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devXpraAddy/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0781-basic-calculator-iv](https://github.com/devXpraAddy/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0906-walking-robot-simulation](https://github.com/devXpraAddy/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/devXpraAddy/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/devXpraAddy/Leetcode/tree/master/0952-word-subsets) |
