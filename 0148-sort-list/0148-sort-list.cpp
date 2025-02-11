@@ -10,64 +10,50 @@
  */
 class Solution {
 public:
-    void merge(vector<int>& arr, int low, int mid, int high){
-        int i = low;
-        int j = mid + 1;
-        int k = 0;
-        vector<int> res;
-
-        while(i<=mid && j<=high){
-            if(arr[i] < arr[j]){
-                res.push_back(arr[i]);
-                i++;
-            }else{
-                res.push_back(arr[j]);
-                j++;
-            }
-        }
-        while(i<=mid){
-            res.push_back(arr[i]);
-            i++;
-        }
-        while(j<=high){
-            res.push_back(arr[j]);
-            j++;
-        }
-        k = low;
-        for(int i =0 ;i<res.size();i++){
-            arr[k] = res[i];
-            k++;
-        }
-    }
-    vector<int> mergeSort(vector<int>& arr, int low, int high){
-        if(low == high) return arr;
-        int mid = low + (high- low)/2;
-        mergeSort(arr, low, mid);
-        mergeSort(arr, mid+1, high);
-        merge(arr, low, mid, high);
-        return arr;
-    }
-    ListNode* sortList(ListNode* head) {
-        if(head == NULL) return NULL;
-        ListNode* temp = head;
-        vector<int> arr;
-
-        while(temp!= NULL){
-            arr.push_back(temp->val);
-            temp = temp->next;
-        }
-        int n = arr.size();
-        int low = 0;
-        int high = n-1;
-        vector<int> res = mergeSort(arr, low, high);
-
-        ListNode* dummy = new ListNode(res[0]);
+    ListNode* mergeSortedList(ListNode* left, ListNode* right){
+        ListNode* dummy = new ListNode(-1);
         ListNode* curr = dummy;
-
-        for(int i = 1; i<res.size(); i++){
-            curr->next = new ListNode(res[i]);
+        while(left != NULL && right != NULL){
+            if(left->val < right->val){
+                curr->next = left;
+                left = left->next;
+            }else{
+                curr->next = right;
+                right = right->next;
+            }
             curr = curr->next;
         }
-        return dummy;
+        if(left != NULL){
+            curr->next = left;
+        }
+        if(right != NULL){
+            curr->next = right;
+        }
+        return dummy->next;
+    }
+    ListNode* findMid(ListNode* head){
+        ListNode* slow = head;
+        ListNode* fast = head->next; //because we want slow to point to the first middle in the even length case
+        while(fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
+    }
+    ListNode* sortList(ListNode* head) {
+        if(head == NULL || head->next == NULL) return head;
+
+        ListNode* mid = findMid(head);
+        ListNode* left = head;
+        ListNode* right = mid->next;
+        mid->next = NULL;
+
+        left = sortList(left);
+        right = sortList(right);
+
+        return mergeSortedList(left, right);
     }
 };
+
+
+
