@@ -10,9 +10,10 @@
  */
 class Solution {
 public:
-    ListNode* mergeSortedList(ListNode* left, ListNode* right){
+    ListNode* mergeTwoList(ListNode* left, ListNode* right){
         ListNode* dummy = new ListNode(-1);
         ListNode* curr = dummy;
+
         while(left != NULL && right != NULL){
             if(left->val < right->val){
                 curr->next = left;
@@ -33,8 +34,8 @@ public:
     }
     ListNode* findMid(ListNode* head){
         ListNode* slow = head;
-        ListNode* fast = head->next; //because we want slow to point to the first middle in the even length case
-        while(fast != NULL && fast->next != NULL){
+        ListNode* fast = head->next;
+        while(fast && fast->next){
             slow = slow->next;
             fast = fast->next->next;
         }
@@ -46,14 +47,11 @@ public:
         ListNode* mid = findMid(head);
         ListNode* left = head;
         ListNode* right = mid->next;
-        mid->next = NULL;
+        mid->next = NULL; // as we want to seperate 2 LL
 
         left = sortList(left);
         right = sortList(right);
 
-        return mergeSortedList(left, right);
+        return mergeTwoList(left, right);
     }
 };
-
-
-
