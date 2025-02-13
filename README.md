@@ -187,6 +187,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/devXpraAddy/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devXpraAddy/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devXpraAddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/devXpraAddy/Leetcode/tree/master/0075-sort-colors) |
@@ -282,6 +283,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/devXpraAddy/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devXpraAddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/devXpraAddy/Leetcode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/0053-maximum-subarray) |
@@ -664,6 +666,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/devXpraAddy/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/devXpraAddy/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/devXpraAddy/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/devXpraAddy/Leetcode/tree/master/0148-sort-list) |
