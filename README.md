@@ -15,6 +15,7 @@
 | [0670-maximum-swap](https://github.com/devXpraAddy/Leetcode/tree/master/0670-maximum-swap) |
 | [0781-basic-calculator-iv](https://github.com/devXpraAddy/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2155-find-missing-observations](https://github.com/devXpraAddy/Leetcode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/devXpraAddy/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -228,6 +229,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/devXpraAddy/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1236-n-th-tribonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/devXpraAddy/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/devXpraAddy/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/devXpraAddy/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -256,6 +258,7 @@
 | [0070-climbing-stairs](https://github.com/devXpraAddy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/devXpraAddy/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
