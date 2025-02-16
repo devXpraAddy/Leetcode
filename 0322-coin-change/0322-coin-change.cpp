@@ -1,30 +1,46 @@
 class Solution {
 public:
-    int t[10001][13];
-    int solve(vector<int>& coins, int amount, int i){
-        if(i == 0){
-            if(amount % coins[i] == 0){
-                return amount / coins[i];
-            }else{
-                return 1e9;
-            }
-        }
-        if(t[amount][i] != -1){
-            return t[amount][i];
-        }
+    int helper(vector<int>& coins, int ind, int amount, vector<vector<int>>& dp){
 
-        int skip = 0 + solve(coins, amount, i-1);
-        int take = INT_MAX;
-        if(coins[i] <= amount){
-            take = 1 + solve(coins, amount - coins[i], i);
-        }
-        return t[amount][i] = min(take, skip);
+    // Base case: If we're at the first element
+    if(ind == 0){
+        // Check if the target sum is divisible by the first element
+        if(amount % coins[0] == 0)
+            return amount / coins[0]; // If yes, return the quotient as the answer
+        else
+            return 1e9; // Otherwise, return a very large value to indicate it's not possible
     }
-    int coinChange(vector<int>& coins, int amount) {
-        int n = coins.size();
-        memset(t, -1, sizeof(t));
-        int res = solve(coins, amount, n-1);
+    
+    // If the result for this index and target sum is already calculated, return it
+    if(dp[ind][amount] != -1)
+        return dp[ind][amount];
+        
+    // Calculate the minimum elements needed without taking the current element
+    int notTaken = 0 + helper(coins, ind - 1, amount, dp);
+    
+    // Calculate the minimum elements needed by taking the current element
+    int taken = 1e9; // Initialize 'taken' to a very large value or INT_MAX
+    if(coins[ind] <= amount)  // T is the target
+        taken = 1 + helper(coins, ind, amount - coins[ind], dp);
+        
+    // Store the minimum of 'notTaken' and 'taken' in the DP array and return it
+    return dp[ind][amount] = min(notTaken, taken);
+}
 
-        return res == 1e9 ? -1 : res;
-    }
+// Function to find the minimum number of elements needed to form the target sum
+int coinChange(vector<int>& coins, int amount){
+    
+    int n = coins.size();
+    
+    // Create a DP (Dynamic Programming) table with n rows and T+1 columns and initialize it with -1
+    vector<vector<int>> dp(n, vector<int>(amount + 1, -1));
+    
+    // Call the utility function to calculate the answer
+    int ans =  helper(coins, n - 1, amount, dp);
+    
+    // If 'ans' is still very large, it means it's not possible to form the target sum
+    if(ans >= 1e9)
+        return -1;
+    return ans; // Return the minimum number of elements needed
+}
 };
