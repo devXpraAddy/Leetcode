@@ -9,6 +9,7 @@
 | [0070-climbing-stairs](https://github.com/devXpraAddy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/devXpraAddy/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/devXpraAddy/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/devXpraAddy/Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/devXpraAddy/Leetcode/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/devXpraAddy/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -223,6 +224,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devXpraAddy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/devXpraAddy/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/devXpraAddy/Leetcode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/devXpraAddy/Leetcode/tree/master/0338-counting-bits) |
 | [0472-concatenated-words](https://github.com/devXpraAddy/Leetcode/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0494-target-sum) |
@@ -480,6 +482,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/devXpraAddy/Leetcode/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0617-merge-two-binary-trees](https://github.com/devXpraAddy/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/devXpraAddy/Leetcode/tree/master/0684-redundant-connection) |
