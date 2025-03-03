@@ -15,19 +15,15 @@ public:
                 sml.push_back(nums[i]);
             }
         }
-        res.resize(nums.size());
-        int j = 0;
+
         for(int i = 0;i<sml.size(); i++){
-            res[j] = sml[i];
-            j++;
+            res.push_back(sml[i]);
         }
         for(int i = 0;i<eq.size(); i++){
-            res[j] = eq[i];
-            j++;
+            res.push_back(eq[i]);
         }
         for(int i = 0;i<large.size(); i++){
-            res[j] = large[i];
-            j++;
+            res.push_back(large[i]);
         }
 
         return res;
