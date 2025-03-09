@@ -223,6 +223,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devXpraAddy/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/devXpraAddy/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/devXpraAddy/Leetcode/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/devXpraAddy/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -347,6 +348,7 @@
 | [0229-majority-element-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/devXpraAddy/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/devXpraAddy/Leetcode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/devXpraAddy/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/devXpraAddy/Leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0472-concatenated-words](https://github.com/devXpraAddy/Leetcode/tree/master/0472-concatenated-words) |
