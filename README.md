@@ -351,6 +351,7 @@
 | [0217-contains-duplicate](https://github.com/devXpraAddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/devXpraAddy/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/devXpraAddy/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/devXpraAddy/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/devXpraAddy/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/devXpraAddy/Leetcode/tree/master/0322-coin-change) |
@@ -501,6 +502,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/devXpraAddy/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/devXpraAddy/Leetcode/tree/master/0621-task-scheduler) |
@@ -935,6 +937,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/devXpraAddy/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/devXpraAddy/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/devXpraAddy/Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devXpraAddy/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -950,6 +953,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/devXpraAddy/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/devXpraAddy/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devXpraAddy/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -982,6 +986,7 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/devXpraAddy/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devXpraAddy/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Eulerian Circuit
