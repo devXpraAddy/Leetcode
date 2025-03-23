@@ -276,6 +276,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devXpraAddy/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/devXpraAddy/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/devXpraAddy/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/devXpraAddy/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/devXpraAddy/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/devXpraAddy/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/devXpraAddy/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -502,6 +503,7 @@
 | [1325-path-with-maximum-probability](https://github.com/devXpraAddy/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/devXpraAddy/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/devXpraAddy/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devXpraAddy/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/devXpraAddy/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -545,6 +547,7 @@
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/devXpraAddy/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/devXpraAddy/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devXpraAddy/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/devXpraAddy/Leetcode/tree/master/2803-modify-graph-edge-weights) |
@@ -1027,6 +1030,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/devXpraAddy/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/devXpraAddy/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/devXpraAddy/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devXpraAddy/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/devXpraAddy/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Bucket Sort
