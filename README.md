@@ -144,6 +144,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/devXpraAddy/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -171,6 +172,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/devXpraAddy/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/devXpraAddy/Leetcode/tree/master/0472-concatenated-words) |
+| [0543-diameter-of-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/devXpraAddy/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/devXpraAddy/Leetcode/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -208,6 +210,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/devXpraAddy/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
