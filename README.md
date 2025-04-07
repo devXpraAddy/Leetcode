@@ -281,6 +281,7 @@
 | [0322-coin-change](https://github.com/devXpraAddy/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/devXpraAddy/Leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/devXpraAddy/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/devXpraAddy/Leetcode/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0518-coin-change-ii) |
@@ -384,6 +385,7 @@
 | [0322-coin-change](https://github.com/devXpraAddy/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/devXpraAddy/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/devXpraAddy/Leetcode/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/devXpraAddy/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0494-target-sum) |
