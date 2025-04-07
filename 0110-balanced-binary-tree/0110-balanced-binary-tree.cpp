@@ -21,14 +21,13 @@ public:
 
         if(abs(lh - rh) > 1) return -1;
 
-        return 1+ max(lh, rh);
+        return 1 + max(lh, rh);
     }
     bool isBalanced(TreeNode* root) {
         int res = solve(root);
-
-        if(res == -1){
-            return false;
+        if(res != -1){
+            return true;
         }
-        return true;
+        return false;
     }
 };
