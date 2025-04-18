@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/devXpraAddy/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0038-count-and-say](https://github.com/devXpraAddy/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/devXpraAddy/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/devXpraAddy/Leetcode/tree/master/0179-largest-number) |
