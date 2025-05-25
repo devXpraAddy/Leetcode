@@ -1,12 +1,18 @@
 class Solution {
 public:
     void solve(int node, vector<int>&vis, vector<vector<int>>&adj){
+        queue<int>q;
+        q.push(node);
         vis[node] = 1;
 
-        for(auto it: adj[node]){
-            if(!vis[it]){
-                vis[it] =1;
-                solve(it, vis, adj);
+        while(!q.empty()){
+            int val = q.front();
+            q.pop();
+            for(auto it: adj[val]){
+                if(!vis[it]){
+                    vis[it] =1;
+                    q.push(it);
+                }
             }
         }
     }
