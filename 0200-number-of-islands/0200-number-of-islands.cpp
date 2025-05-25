@@ -1,15 +1,7 @@
 class Solution {
 public:
-    void bfs(int i, int j, vector<vector<int>>& vis, int n, int m, vector<vector<char>>& grid){
-        vis[i][j] = 1;
-
-        queue<pair<int,int>>q;
-        q.push({i,j});
-
-        while(!q.empty()){
-            int row = q.front().first;
-            int col = q.front().second;
-            q.pop();
+    void bfs(int row, int col, vector<vector<int>>& vis, int n, int m, vector<vector<char>>& grid){
+        vis[row][col] = 1;
 
             vector<int>delRow = {-1, 0, 1, 0};
             vector<int>delCol = {0, -1, 0, 1};
@@ -19,11 +11,10 @@ public:
                 int newCol = col + delCol[i];
                 if(newRow >=0 && newCol >=0 && newRow <n && newCol <m && grid[newRow][newCol] == '1' && !vis[newRow][newCol]){
                     vis[newRow][newCol] =1;
-                    q.push({newRow, newCol});
+                    bfs(newRow, newCol, vis, n, m, grid);
                 }
             }             
         }
-    }
 
     int numIslands(vector<vector<char>>& grid) {
         int n = grid.size();
