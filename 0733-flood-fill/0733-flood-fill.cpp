@@ -6,17 +6,26 @@ private:
         int n = image.size();
         int m = image[0].size();
 
+        queue<pair<int,int>>q;
+        q.push({row, col});
+
         vector<int> delRow = {-1, 0, 1, 0};
         vector<int> delCol = {0, -1, 0, 1};
 
-        for(int i = 0;i<4; i++){
-            int newRow = row + delRow[i];
-            int newCol = col + delCol[i];
-            if(newRow >=0 && newCol >=0 && newRow < n && newCol <m && image[newRow][newCol] == initColor && res[newRow][newCol] != finalColor){
-                dfs(image, newRow, newCol, initColor, res, finalColor);
+        while(!q.empty()){
+            int roww = q.front().first;
+            int coll = q.front().second;
+            q.pop();
+
+            for(int i = 0; i<4; i++){
+                int newRow = roww + delRow[i];
+                int newCol = coll + delCol[i];
+                if(newRow >=0 && newCol >=0 && newRow < n && newCol <m && image[newRow][newCol] == initColor && res[newRow][newCol] != finalColor){
+                    res[newRow][newCol] = finalColor;
+                    q.push({newRow, newCol});
+                }
             }
         }
-
     }
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int finalColor) {
