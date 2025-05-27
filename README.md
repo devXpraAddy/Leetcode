@@ -453,6 +453,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/devXpraAddy/Leetcode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/devXpraAddy/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1036-rotting-oranges](https://github.com/devXpraAddy/Leetcode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/devXpraAddy/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/devXpraAddy/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devXpraAddy/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -682,6 +683,7 @@
 | [0733-flood-fill](https://github.com/devXpraAddy/Leetcode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/devXpraAddy/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/devXpraAddy/Leetcode/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/devXpraAddy/Leetcode/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/devXpraAddy/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -728,6 +730,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/devXpraAddy/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/devXpraAddy/Leetcode/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/devXpraAddy/Leetcode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devXpraAddy/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/devXpraAddy/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/devXpraAddy/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
