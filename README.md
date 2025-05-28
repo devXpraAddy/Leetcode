@@ -312,6 +312,7 @@
 | [0472-concatenated-words](https://github.com/devXpraAddy/Leetcode/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/devXpraAddy/Leetcode/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/devXpraAddy/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/devXpraAddy/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -434,6 +435,7 @@
 | [0496-next-greater-element-i](https://github.com/devXpraAddy/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/devXpraAddy/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/devXpraAddy/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/devXpraAddy/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/devXpraAddy/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devXpraAddy/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -678,6 +680,7 @@
 | [0279-perfect-squares](https://github.com/devXpraAddy/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/devXpraAddy/Leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/devXpraAddy/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/devXpraAddy/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/devXpraAddy/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/devXpraAddy/Leetcode/tree/master/0684-redundant-connection) |
@@ -729,6 +732,7 @@
 | [0073-set-matrix-zeroes](https://github.com/devXpraAddy/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/devXpraAddy/Leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/devXpraAddy/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/devXpraAddy/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/devXpraAddy/Leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/devXpraAddy/Leetcode/tree/master/1036-rotting-oranges) |
