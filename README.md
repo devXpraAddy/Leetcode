@@ -464,6 +464,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/devXpraAddy/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/devXpraAddy/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0945-snakes-and-ladders](https://github.com/devXpraAddy/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/devXpraAddy/Leetcode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/devXpraAddy/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/devXpraAddy/Leetcode/tree/master/1036-rotting-oranges) |
@@ -700,6 +701,7 @@
 | [0733-flood-fill](https://github.com/devXpraAddy/Leetcode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/devXpraAddy/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/devXpraAddy/Leetcode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/devXpraAddy/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/devXpraAddy/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/devXpraAddy/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -754,6 +756,7 @@
 | [0542-01-matrix](https://github.com/devXpraAddy/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/devXpraAddy/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/devXpraAddy/Leetcode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/devXpraAddy/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/devXpraAddy/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/devXpraAddy/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devXpraAddy/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
