@@ -1230,6 +1230,7 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/devXpraAddy/Leetcode/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/devXpraAddy/Leetcode/tree/master/0182-duplicate-emails) |
 | [0626-exchange-seats](https://github.com/devXpraAddy/Leetcode/tree/master/0626-exchange-seats) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/devXpraAddy/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Sliding Window
