@@ -1,9 +1,9 @@
 class MinStack {
 public:
-    MinStack() {
-    }
     stack<pair<int,int>>st;
-
+    MinStack() {
+        
+    }
     
     void push(int val) {
         if(st.empty()){
