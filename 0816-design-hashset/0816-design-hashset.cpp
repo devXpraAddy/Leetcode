@@ -1,20 +1,41 @@
 class MyHashSet {
 public:
-    vector<bool> vec;
+    vector<list<int>>buckets;
+    int size = 10000;
+
     MyHashSet() {
-        vec.resize(1e6 +1, false);
+        buckets.resize(size);
     }
     
     void add(int key) {
-        vec[key] = true;
+        int bucket_no = key%size;
+        auto &chain = buckets[bucket_no];
+        for(auto it: chain){
+            if(it == key) return ;
+        }
+        chain.push_back(key);
     }
     
     void remove(int key) {
-        vec[key] = false;
+        int bucket_no = key%size;
+        auto &chain = buckets[bucket_no];
+        
+        for(auto it = chain.begin(); it != chain.end(); it++){
+            if(*it == key){
+                chain.erase(it);
+                return;
+            }
+        }
     }
     
     bool contains(int key) {
-        return vec[key] == true;
+        int bucket_no = key%size;
+        auto &chain = buckets[bucket_no];
+
+        for(auto it: chain){
+            if(it == key) return true;
+        }
+        return false;
     }
 };
 
