@@ -1,32 +1,14 @@
-//T.C : O(nlogn)
-//S.C : O(1)
 class Solution {
 public:
+    
     vector<int> maxSubsequence(vector<int>& nums, int k) {
-        int n = nums.size();
-        if (k == n)
-            return nums;
-
-        vector<pair<int, int>> vec(n);
-        for(int i = 0; i < n; i++) {
-            vec[i] = make_pair(i, nums[i]);
-        }
-
-        auto lambda = [](auto &p1, auto& p2) {
-            return p1.second > p2.second;
-        };
-
-        sort(begin(vec), end(vec), lambda);
-
-        sort(begin(vec), begin(vec)+k);
-
-        vector<int> result;
-        for(int i = 0; i < k; i++) {
-            result.push_back(vec[i].second);
-        }
-
-        return result;
+        
+        vector<int> v , temp = nums;
+        sort(nums.begin() , nums.end());
+        unordered_map<int,int> map;
+        
+        for(int index = 0 ; index < k ; index ++) map[nums[nums.size() - 1- index]]++; 
+        for(auto it: temp) if(map[it]-- > 0)v.push_back(it);
+    return v;
     }
 };
-
-
