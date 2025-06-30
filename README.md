@@ -500,6 +500,7 @@
 | [0817-design-hashmap](https://github.com/devXpraAddy/Leetcode/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/devXpraAddy/Leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/devXpraAddy/Leetcode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/devXpraAddy/Leetcode/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devXpraAddy/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/devXpraAddy/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/devXpraAddy/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -1122,6 +1123,7 @@
 | [0816-design-hashset](https://github.com/devXpraAddy/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/devXpraAddy/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/devXpraAddy/Leetcode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/devXpraAddy/Leetcode/tree/master/0860-design-circular-queue) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/devXpraAddy/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1260,6 +1262,7 @@
 | [0816-design-hashset](https://github.com/devXpraAddy/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/devXpraAddy/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/devXpraAddy/Leetcode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/devXpraAddy/Leetcode/tree/master/0860-design-circular-queue) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/devXpraAddy/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/devXpraAddy/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -1283,6 +1286,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/devXpraAddy/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/devXpraAddy/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/devXpraAddy/Leetcode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/devXpraAddy/Leetcode/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devXpraAddy/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/devXpraAddy/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/devXpraAddy/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
