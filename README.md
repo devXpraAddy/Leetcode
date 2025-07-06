@@ -505,6 +505,7 @@
 | [0733-flood-fill](https://github.com/devXpraAddy/Leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/devXpraAddy/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/devXpraAddy/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0792-binary-search](https://github.com/devXpraAddy/Leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/devXpraAddy/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/devXpraAddy/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/devXpraAddy/Leetcode/tree/master/0817-design-hashmap) |
@@ -1006,6 +1007,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/devXpraAddy/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/devXpraAddy/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/devXpraAddy/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devXpraAddy/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/devXpraAddy/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/devXpraAddy/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
