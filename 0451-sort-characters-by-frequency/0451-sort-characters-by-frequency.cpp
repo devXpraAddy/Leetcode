@@ -1,17 +1,18 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        int freq[128] = {0};
+        int n = s.size();
+        unordered_map<char, int>mp;
 
-        for(int i =0; i<s.size(); i++){
-            // mp[s -'a']++; // this is done when we are using vector in place of map
-            freq[s[i]]++;
+        for(int i =0 ;i<n; i++){
+            mp[s[i]]++;
         }
-        sort(s.begin(), s.end(), [&](char & a, char &b){
-            if(freq[a] == freq[b]){
-                return a < b;
+
+        sort(s.begin(), s.end(), [&](char & a, char & b){
+            if(mp[a] == mp[b]){
+                return a<b;
             }else{
-                return freq[a] > freq[b];
+                return mp[a] > mp[b];
             }
         });
         return s;
