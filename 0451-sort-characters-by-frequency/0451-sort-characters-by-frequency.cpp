@@ -2,7 +2,7 @@ class Solution {
 public:
     string frequencySort(string s) {
         int n = s.size();
-        unordered_map<char, int>mp;
+        vector<char> mp(256,0);
 
         for(int i =0 ;i<n; i++){
             mp[s[i]]++;
