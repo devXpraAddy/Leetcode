@@ -1,20 +1,32 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        int n = s.size();
-        vector<int> mp(128,0);
 
-        for(int i =0 ;i<n; i++){
+        unordered_map<char, int> mp;
+
+        struct comp{
+            bool operator()(pair<char, int>& a, pair<char, int> & b){
+                return a.second < b.second;
+            }
+        };
+
+        priority_queue<pair<char, int>, vector<pair<char, int>>, comp> pq;
+
+        for (int i = 0; i < s.size(); i++) {
             mp[s[i]]++;
         }
 
-        sort(s.begin(), s.end(), [&](char & a, char & b){
-            if(mp[a] == mp[b]){
-                return a<b;
-            }else{
-                return mp[a] > mp[b];
-            }
-        });
-        return s;
+        for (auto &it : mp) {
+            pq.push({it.first, it.second});
+        }
+
+        string res = "";
+
+        while (!pq.empty()) {
+            pair<char, int> temp = pq.top();
+            pq.pop();
+            res += string(temp.second, temp.first);
+        }
+        return res;
     }
 };
