@@ -488,6 +488,7 @@
 | [0260-single-number-iii](https://github.com/devXpraAddy/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/devXpraAddy/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/devXpraAddy/Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/devXpraAddy/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -718,6 +719,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/devXpraAddy/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/devXpraAddy/Leetcode/tree/master/0621-task-scheduler) |
@@ -878,6 +880,7 @@
 | [0217-contains-duplicate](https://github.com/devXpraAddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devXpraAddy/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/devXpraAddy/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -972,6 +975,7 @@
 | [0169-majority-element](https://github.com/devXpraAddy/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/devXpraAddy/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Backtracking
 |  |
@@ -1093,6 +1097,7 @@
 | [0217-contains-duplicate](https://github.com/devXpraAddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devXpraAddy/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/devXpraAddy/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/devXpraAddy/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -1140,6 +1145,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -1178,6 +1184,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/devXpraAddy/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/devXpraAddy/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/devXpraAddy/Leetcode/tree/master/0621-task-scheduler) |
@@ -1425,6 +1432,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
