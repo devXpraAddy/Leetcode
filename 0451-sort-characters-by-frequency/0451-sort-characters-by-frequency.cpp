@@ -4,7 +4,7 @@ public:
 
         unordered_map<char, int> mp;
 
-            auto comp = [&](pair<char, int>& a, pair<char, int> & b){
+            auto comp = [](pair<char, int>& a, pair<char, int> & b){
                 return a.second < b.second;
             };
 
