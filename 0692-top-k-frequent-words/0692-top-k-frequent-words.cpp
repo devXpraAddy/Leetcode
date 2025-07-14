@@ -29,8 +29,8 @@ public:
 
         while(!pq.empty()){
             pair<string, int> temp = pq.top();
-            res[i] = temp.first;
             pq.pop();
+            res[i] = temp.first;
             i--;
         }
         return res;
