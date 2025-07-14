@@ -207,6 +207,7 @@
 | [0572-subtree-of-another-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/devXpraAddy/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/devXpraAddy/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -293,6 +294,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/devXpraAddy/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/devXpraAddy/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -729,6 +731,7 @@
 | [0621-task-scheduler](https://github.com/devXpraAddy/Leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devXpraAddy/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/devXpraAddy/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/devXpraAddy/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devXpraAddy/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/devXpraAddy/Leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/devXpraAddy/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -1318,6 +1321,7 @@
 | [0432-all-oone-data-structure](https://github.com/devXpraAddy/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/devXpraAddy/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/devXpraAddy/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/devXpraAddy/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/devXpraAddy/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/devXpraAddy/Leetcode/tree/master/0859-design-circular-deque) |
@@ -1460,4 +1464,12 @@
 | [3548-find-the-count-of-good-integers](https://github.com/devXpraAddy/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/devXpraAddy/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/devXpraAddy/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/devXpraAddy/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
