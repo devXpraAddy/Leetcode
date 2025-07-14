@@ -21,6 +21,7 @@
 | [0797-rabbits-in-forest](https://github.com/devXpraAddy/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devXpraAddy/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devXpraAddy/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/devXpraAddy/Leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/devXpraAddy/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1178,6 +1179,7 @@
 | [0817-design-hashmap](https://github.com/devXpraAddy/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/devXpraAddy/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/devXpraAddy/Leetcode/tree/master/0860-design-circular-queue) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devXpraAddy/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/devXpraAddy/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
