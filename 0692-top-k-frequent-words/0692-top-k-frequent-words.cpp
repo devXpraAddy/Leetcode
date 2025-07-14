@@ -3,35 +3,32 @@ public:
     vector<string> topKFrequent(vector<string>& words, int k) {
         unordered_map<string, int> mp;
 
-        struct comp{
-            bool operator()(pair<string, int>& a,pair<string, int>& b){
-                if(a.second != b.second){
-                    return a.second > b.second;
-                }
-                return a.first < b.first;
+        auto lambda= [](pair<string, int>& a, pair<string, int>& b){
+            if(a.second == b.second){
+                return a.first < b.first; // ascending order (opposite for heap)
             }
+            return a.second > b.second; // descending order 
         };
 
-        priority_queue<pair<string, int>, vector<pair<string, int>>, comp> pq;
-
-        for(int i =0; i<words.size(); i++){
+        for(int i = 0; i<words.size(); i++){
             mp[words[i]]++;
         }
 
-        for(auto &it: mp){
-            pq.push({it.first, it.second});
-            if(pq.size() > k){
-                pq.pop();
-            }
+        vector<pair<string, int>> vec;
+
+        for(auto it: mp){
+            vec.push_back({it.first, it.second});
         }
-        int i = k-1;
+
+        sort(vec.begin(), vec.end(), lambda);
+
         vector<string>res(k);
 
-        while(!pq.empty()){
-            pair<string, int> temp = pq.top();
-            pq.pop();
-            res[i] = temp.first;
-            i--;
+        int i=0;
+
+        while(i<k){
+            res[i] = vec[i].first;
+            i++;
         }
         return res;
     }
