@@ -322,6 +322,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/devXpraAddy/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/devXpraAddy/Leetcode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/devXpraAddy/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/devXpraAddy/Leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/devXpraAddy/Leetcode/tree/master/0768-partition-labels) |
@@ -736,6 +737,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/devXpraAddy/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/devXpraAddy/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/devXpraAddy/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -1121,6 +1123,7 @@
 | [0217-contains-duplicate](https://github.com/devXpraAddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devXpraAddy/Leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/devXpraAddy/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/devXpraAddy/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -1337,6 +1340,7 @@
 | [0155-min-stack](https://github.com/devXpraAddy/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/devXpraAddy/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devXpraAddy/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/devXpraAddy/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0432-all-oone-data-structure](https://github.com/devXpraAddy/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/devXpraAddy/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -1491,6 +1495,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/devXpraAddy/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/devXpraAddy/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
