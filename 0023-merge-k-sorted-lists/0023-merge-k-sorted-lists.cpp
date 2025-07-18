@@ -13,21 +13,20 @@ public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         priority_queue<pair<int, ListNode*>, vector<pair<int, ListNode*>>, greater<pair<int, ListNode*>>> pq;
 
-        for (int i = 0; i < lists.size(); i++) { // klogk(k : size)
-            if (lists[i] != NULL) {
-                pq.push({lists[i]->val, lists[i]}); // logk
+        for(int i =0 ; i< lists.size(); i++){
+            if(lists[i] != NULL){
+                pq.push({lists[i]->val, lists[i]});
             }
         }
-        ListNode* dummy = new ListNode(-1);
+        ListNode* dummy= new ListNode(-1);
         ListNode* temp = dummy;
 
-        while (!pq.empty()) { // K*N * 3*logk
+        while(!pq.empty()){
             pair<int, ListNode*> p = pq.top();
             temp->next = p.second;
-            pq.pop(); // once we have deleted we want that the next should go in
-                      // pq
+            pq.pop();
 
-            if (p.second->next != NULL) {
+            if(p.second->next != NULL){
                 pq.push({p.second->next->val, p.second->next});
             }
             temp = temp->next;
