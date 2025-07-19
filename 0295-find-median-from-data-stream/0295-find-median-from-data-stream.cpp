@@ -1,7 +1,7 @@
 class MedianFinder {
 public:
     priority_queue<int> left_pq;
-    priority_queue<int, vector<int>, greater<int>> right_pq;
+    priority_queue<int, vector<int>, greater<int>>right_pq;
 
     MedianFinder() {
         
@@ -13,6 +13,7 @@ public:
         }else{
             right_pq.push(num);
         }
+
         if(abs((int)left_pq.size() - (int)right_pq.size()) > 1){
             right_pq.push(left_pq.top());
             left_pq.pop();
@@ -35,4 +36,4 @@ public:
  * MedianFinder* obj = new MedianFinder();
  * obj->addNum(num);
  * double param_2 = obj->findMedian();
- */ 
+ */
