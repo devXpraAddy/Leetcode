@@ -158,6 +158,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devXpraAddy/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -314,6 +315,7 @@
 | [0015-3sum](https://github.com/devXpraAddy/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/devXpraAddy/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devXpraAddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/devXpraAddy/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/devXpraAddy/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/devXpraAddy/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -352,6 +354,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devXpraAddy/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/devXpraAddy/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -475,6 +478,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devXpraAddy/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/devXpraAddy/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/devXpraAddy/Leetcode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/devXpraAddy/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -1423,6 +1427,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devXpraAddy/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/devXpraAddy/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/devXpraAddy/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
