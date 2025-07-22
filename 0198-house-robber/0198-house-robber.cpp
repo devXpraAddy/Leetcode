@@ -1,25 +1,23 @@
 class Solution {
-private:
-    int solve(int idx, vector<int>& nums, vector<int>& dp){
-        if(idx == 0) return nums[0];
-        if(idx < 0) return 0;
 
-        if(dp[idx] != -1){
-            return dp[idx];
-        }
-        
-        int skip = solve(idx-1, nums, dp);
-        int take = nums[idx] + solve(idx-2, nums, dp);
-
-
-        return dp[idx] = max(take, skip);
-    }
 public:
     int rob(vector<int>& nums) {
 
         int n = nums.size();
-        vector<int>dp(n, -1);
+        // vector<int>dp(n, -1);
+        int pre = nums[0];
+        int pre2 = 0;
 
-        return solve(n-1, nums, dp);
+        for(int i =1;i<n; i++){
+            int take = nums[i];
+            if(i > 1){
+                take = take + pre2;
+            }
+            int skip = 0 + pre;
+            int curr = max(take, skip);
+            pre2 = pre;
+            pre = curr;
+        }
+        return pre;
     }
 };
