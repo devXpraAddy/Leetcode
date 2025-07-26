@@ -559,6 +559,7 @@
 | [1002-maximum-width-ramp](https://github.com/devXpraAddy/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/devXpraAddy/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/devXpraAddy/Leetcode/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/devXpraAddy/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/devXpraAddy/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/devXpraAddy/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/devXpraAddy/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -1083,6 +1084,7 @@
 | [0731-my-calendar-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/devXpraAddy/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devXpraAddy/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/devXpraAddy/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/devXpraAddy/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/devXpraAddy/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devXpraAddy/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1117,6 +1119,7 @@
 | [0724-find-pivot-index](https://github.com/devXpraAddy/Leetcode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devXpraAddy/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/devXpraAddy/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/devXpraAddy/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1432,6 +1435,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/devXpraAddy/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/devXpraAddy/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devXpraAddy/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/devXpraAddy/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/devXpraAddy/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/devXpraAddy/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/devXpraAddy/Leetcode/tree/master/1813-maximum-erasure-value) |
