@@ -71,6 +71,7 @@
 | [0257-binary-tree-paths](https://github.com/devXpraAddy/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/devXpraAddy/Leetcode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/devXpraAddy/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/devXpraAddy/Leetcode/tree/master/0472-concatenated-words) |
@@ -932,6 +933,7 @@
 | [0229-majority-element-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devXpraAddy/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/devXpraAddy/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/devXpraAddy/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -1434,6 +1436,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/devXpraAddy/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/devXpraAddy/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/devXpraAddy/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/devXpraAddy/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/devXpraAddy/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
