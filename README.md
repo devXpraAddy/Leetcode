@@ -558,6 +558,7 @@
 | [0940-fruit-into-baskets](https://github.com/devXpraAddy/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/devXpraAddy/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/devXpraAddy/Leetcode/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/devXpraAddy/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/devXpraAddy/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/devXpraAddy/Leetcode/tree/master/1036-rotting-oranges) |
@@ -955,6 +956,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/devXpraAddy/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/devXpraAddy/Leetcode/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/devXpraAddy/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devXpraAddy/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/devXpraAddy/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -1124,6 +1126,7 @@
 | [0724-find-pivot-index](https://github.com/devXpraAddy/Leetcode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devXpraAddy/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/devXpraAddy/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/devXpraAddy/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1444,6 +1447,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/devXpraAddy/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devXpraAddy/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/devXpraAddy/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/devXpraAddy/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/devXpraAddy/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/devXpraAddy/Leetcode/tree/master/1755-defuse-the-bomb) |
