@@ -1,23 +1,22 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int n = s.size();
-        int res = 0;
+        int i =0 ;
+        int j =0 ;
+        int count =0 ;
+        int n =s.size();
+        vector<int>mp(3 , 0);
 
-        vector<int> mp(3,0);
-        int i =0;
-        int j = 0;
-        while(j< n){
-            char ch = s[j];
-            mp[ch- 'a']++;
+        while(j < n){
+            mp[s[j]-'a']++;
 
-            while(mp[0]>0 && mp[1] > 0 && mp[2] > 0){
-                res+= (n-j);
+            while(mp[0]>0 && mp[1]>0 && mp[2]>0){
+                count += (n-j);
                 mp[s[i] - 'a']--;
                 i++;
             }
             j++;
         }
-        return res;
+        return count;
     }
 };
