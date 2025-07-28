@@ -1,22 +1,23 @@
 class Solution {
-public:
-    int t[38];
-    int solve(int n){
+private:
+    int solve(int n, vector<int>& dp){
         if(n == 0) return 0;
         if(n == 1 || n == 2) return 1;
 
-        if(t[n] != -1){
-            return t[n];
+        if(dp[n] != -1){
+            return dp[n];
         }
 
-        int a = solve(n-1);
-        int b = solve(n-2);
-        int c = solve(n-3);
+        int a = solve(n-1, dp);
+        int b = solve(n-2, dp);
+        int c = solve(n-3, dp);
 
-        return t[n] = a+b+c;
+        return dp[n] = a+b+c;
     }
+public:
     int tribonacci(int n) {
-        memset(t, -1, sizeof(t));
-        return solve(n);
+        vector<int>dp(n+1, -1);
+
+        return solve(n, dp);
     }
 };
