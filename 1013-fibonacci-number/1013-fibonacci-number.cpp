@@ -1,16 +1,22 @@
 class Solution {
 private:
-    int solve(int n ){
+    int solve(int n, vector<int>& dp){
         if(n == 0) return 0;
         if(n == 1) return 1;
 
-        int left = solve(n-1);
-        int right = solve(n-2);
+        if(dp[n] != -1){
+            return dp[n];
+        }
 
-        return left + right;
+        int left = solve(n-1, dp);
+        int right = solve(n-2, dp);
+
+        return dp[n] = left + right;
     }
 public:
     int fib(int n) {
-        return solve(n);
+        vector<int>dp(n+1, -1);
+
+        return solve(n, dp);
     }
 };
