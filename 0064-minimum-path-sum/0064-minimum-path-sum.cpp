@@ -1,23 +1,25 @@
 class Solution {
-public:
-    int t[201][201];
-    int solve(int m, int n, vector<vector<int>>& grid){
-        if(m == 0 && n== 0) return grid[m][n];
-        if(m<0 || n<0) return 1e9+7;
+private:
+    int solve(int m, int n, vector<vector<int>>& grid, vector<vector<int>>& dp){
+        if(m == 0 && n == 0) return grid[m][n];
+        if(m < 0 || n < 0) return 1e9+7;
 
-        if(t[m][n] != -1){
-            return t[m][n];
+        if(dp[m][n] != -1){
+            return dp[m][n];
         }
 
-        int left = grid[m][n] + solve(m, n-1, grid);
-        int up = grid[m][n] + solve(m-1, n, grid);
-        return t[m][n] = min(left, up);
+        int up = grid[m][n] + solve(m-1, n, grid, dp);
+        int left = grid[m][n] + solve(m, n-1, grid, dp);
+
+        return dp[m][n] = min(up, left);
     }
+public:
     int minPathSum(vector<vector<int>>& grid) {
-        memset(t, -1, sizeof(t));
         int m = grid.size();
         int n = grid[0].size();
 
-        return solve(m-1, n-1, grid);
+        vector<vector<int>>dp(m, vector<int>(n, -1));
+
+        return solve(m-1, n-1, grid, dp);
     }
 };
