@@ -1,42 +1,36 @@
 class Solution {
-public:
-    int t[201][20001];
-    bool solve(vector<int>& nums, int i, int x) {
-        if(x == 0) {
-            return true;
+private:
+    bool solve(int idx, vector<int>& nums, int target, vector<vector<int>>& dp){
+        if(target == 0) return true;
+        if(idx == 0) return nums[idx] == target;
+
+        if(dp[idx][target] != -1){
+            return dp[idx][target];
         }
 
-        if(i >= nums.size()) {
-            return false;
+        int take = false;
+        if(target >= nums[idx]){
+            take = solve(idx -1, nums, target - nums[idx], dp);
         }
+        int skip = solve(idx-1, nums, target, dp);
 
-        if(t[i][x] != -1) {
-            return t[i][x];
-        }
-
-        bool take = false;
-        if(nums[i] <= x) {
-            take = solve(nums, i+1, x - nums[i]);
-        }
-
-        bool not_take = solve(nums, i+1, x);
-
-        return t[i][x] = take || not_take;
+        return dp[idx][target] = take | skip;
     }
-
+public:
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
+        int sum =0;
+
+        for(int i =0; i<n; i++){
+            sum += nums[i];
+        }
+        if(sum % 2 != 0) return false;
+
+        int target = sum/2;
         
-        int S = accumulate(begin(nums), end(nums), 0);
+        vector<vector<int>> dp(n, vector<int>(target+1, -1));
 
-        if(S%2 != 0) {
-            return false;
-        }  
-        memset(t, -1, sizeof(t));
-        //vector<vecyot<int>> t(n+1, vector<int>(x+1, -1))
-        int x = S/2;
 
-        return solve(nums, 0, x);
-
+        return solve(n-1, nums, target, dp);
     }
 };
