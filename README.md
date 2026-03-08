@@ -114,6 +114,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/devXpraAddy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/devXpraAddy/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1944-truncate-sentence](https://github.com/devXpraAddy/Leetcode/tree/master/1944-truncate-sentence) |
+| [1980-find-unique-binary-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/devXpraAddy/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devXpraAddy/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/devXpraAddy/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -622,6 +623,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/devXpraAddy/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/devXpraAddy/Leetcode/tree/master/1944-truncate-sentence) |
 | [1972-rotating-the-box](https://github.com/devXpraAddy/Leetcode/tree/master/1972-rotating-the-box) |
+| [1980-find-unique-binary-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devXpraAddy/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/devXpraAddy/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/devXpraAddy/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -996,6 +998,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/devXpraAddy/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/devXpraAddy/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/devXpraAddy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/devXpraAddy/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/devXpraAddy/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/devXpraAddy/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1071,6 +1074,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/devXpraAddy/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/devXpraAddy/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/devXpraAddy/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1980-find-unique-binary-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devXpraAddy/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/devXpraAddy/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/devXpraAddy/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
