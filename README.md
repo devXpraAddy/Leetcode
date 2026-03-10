@@ -417,6 +417,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devXpraAddy/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/devXpraAddy/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1172,6 +1173,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/devXpraAddy/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3427-special-array-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3427-special-array-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/devXpraAddy/Leetcode/tree/master/3639-zero-array-transformation-i) |
