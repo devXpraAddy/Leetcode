@@ -623,6 +623,7 @@
 | [1876-map-of-highest-peak](https://github.com/devXpraAddy/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/devXpraAddy/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/devXpraAddy/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/devXpraAddy/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/devXpraAddy/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/devXpraAddy/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -931,6 +932,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1876-map-of-highest-peak](https://github.com/devXpraAddy/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1972-rotating-the-box](https://github.com/devXpraAddy/Leetcode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/devXpraAddy/Leetcode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/devXpraAddy/Leetcode/tree/master/2089-maximum-matrix-sum) |
