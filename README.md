@@ -159,6 +159,7 @@
 | [3447-clear-digits](https://github.com/devXpraAddy/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/devXpraAddy/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/devXpraAddy/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/devXpraAddy/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1417,6 +1418,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/devXpraAddy/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/devXpraAddy/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/devXpraAddy/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3647-zero-array-transformation-iii](https://github.com/devXpraAddy/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -1437,6 +1439,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/devXpraAddy/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/devXpraAddy/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/devXpraAddy/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
