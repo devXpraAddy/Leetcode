@@ -431,6 +431,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devXpraAddy/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/devXpraAddy/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/devXpraAddy/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -749,6 +750,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/devXpraAddy/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3427-special-array-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/devXpraAddy/Leetcode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/devXpraAddy/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -968,6 +970,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/devXpraAddy/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/devXpraAddy/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
