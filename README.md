@@ -81,6 +81,7 @@
 | [0539-minimum-time-difference](https://github.com/devXpraAddy/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/devXpraAddy/Leetcode/tree/master/0567-permutation-in-string) |
+| [0657-robot-return-to-origin](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/devXpraAddy/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/devXpraAddy/Leetcode/tree/master/0768-partition-labels) |
 | [0781-basic-calculator-iv](https://github.com/devXpraAddy/Leetcode/tree/master/0781-basic-calculator-iv) |
@@ -1130,6 +1131,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/devXpraAddy/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/devXpraAddy/Leetcode/tree/master/0412-fizz-buzz) |
+| [0657-robot-return-to-origin](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0906-walking-robot-simulation](https://github.com/devXpraAddy/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/devXpraAddy/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/devXpraAddy/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
