@@ -633,6 +633,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/devXpraAddy/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/devXpraAddy/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/devXpraAddy/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/devXpraAddy/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/devXpraAddy/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/devXpraAddy/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
