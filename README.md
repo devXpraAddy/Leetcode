@@ -138,6 +138,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/devXpraAddy/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/devXpraAddy/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/devXpraAddy/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/devXpraAddy/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/devXpraAddy/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -697,6 +698,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/devXpraAddy/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2465-shifting-letters-ii](https://github.com/devXpraAddy/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/devXpraAddy/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1504,6 +1506,7 @@
 | [0692-top-k-frequent-words](https://github.com/devXpraAddy/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devXpraAddy/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/devXpraAddy/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/devXpraAddy/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/devXpraAddy/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
