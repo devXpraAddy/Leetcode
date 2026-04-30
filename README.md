@@ -454,6 +454,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/devXpraAddy/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -807,6 +808,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/devXpraAddy/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/devXpraAddy/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -1014,6 +1016,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/devXpraAddy/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
+| [3742-maximum-path-score-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
