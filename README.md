@@ -13,6 +13,7 @@
 | [0279-perfect-squares](https://github.com/devXpraAddy/Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/devXpraAddy/Leetcode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/devXpraAddy/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/devXpraAddy/Leetcode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/devXpraAddy/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -405,6 +406,7 @@
 | [0322-coin-change](https://github.com/devXpraAddy/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/devXpraAddy/Leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/devXpraAddy/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/devXpraAddy/Leetcode/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0494-target-sum) |
@@ -561,6 +563,7 @@
 | [0322-coin-change](https://github.com/devXpraAddy/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/devXpraAddy/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/devXpraAddy/Leetcode/tree/master/0472-concatenated-words) |
