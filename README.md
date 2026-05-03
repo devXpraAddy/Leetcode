@@ -89,6 +89,7 @@
 | [0692-top-k-frequent-words](https://github.com/devXpraAddy/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/devXpraAddy/Leetcode/tree/master/0768-partition-labels) |
 | [0781-basic-calculator-iv](https://github.com/devXpraAddy/Leetcode/tree/master/0781-basic-calculator-iv) |
+| [0796-rotate-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [0812-rotate-string](https://github.com/devXpraAddy/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/devXpraAddy/Leetcode/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/devXpraAddy/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1505,6 +1506,7 @@
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/devXpraAddy/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [0812-rotate-string](https://github.com/devXpraAddy/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/devXpraAddy/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
