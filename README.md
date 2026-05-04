@@ -5,6 +5,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/devXpraAddy/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/devXpraAddy/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/devXpraAddy/Leetcode/tree/master/0070-climbing-stairs) |
@@ -534,6 +535,7 @@
 | [0035-search-insert-position](https://github.com/devXpraAddy/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/devXpraAddy/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/devXpraAddy/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -971,6 +973,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/devXpraAddy/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/devXpraAddy/Leetcode/tree/master/0073-set-matrix-zeroes) |
