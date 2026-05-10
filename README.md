@@ -444,6 +444,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
 | [2586-longest-square-streak-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -755,6 +756,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/devXpraAddy/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2792-neighboring-bitwise-xor](https://github.com/devXpraAddy/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
