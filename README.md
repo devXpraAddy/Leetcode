@@ -552,6 +552,7 @@
 | [0136-single-number](https://github.com/devXpraAddy/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/devXpraAddy/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/devXpraAddy/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/devXpraAddy/Leetcode/tree/master/0198-house-robber) |
@@ -1218,6 +1219,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devXpraAddy/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/devXpraAddy/Leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/devXpraAddy/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/devXpraAddy/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0731-my-calendar-ii) |
