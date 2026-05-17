@@ -290,6 +290,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/devXpraAddy/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/devXpraAddy/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1306-jump-game-iii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devXpraAddy/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -621,6 +622,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/devXpraAddy/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1325-path-with-maximum-probability](https://github.com/devXpraAddy/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/devXpraAddy/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/devXpraAddy/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -930,6 +932,7 @@
 | [0945-snakes-and-ladders](https://github.com/devXpraAddy/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/devXpraAddy/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/devXpraAddy/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1306-jump-game-iii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/devXpraAddy/Leetcode/tree/master/1396-count-servers-that-communicate) |
