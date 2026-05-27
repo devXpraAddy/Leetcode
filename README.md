@@ -159,6 +159,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/devXpraAddy/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/devXpraAddy/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/devXpraAddy/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -1134,6 +1135,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/devXpraAddy/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/devXpraAddy/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/devXpraAddy/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
