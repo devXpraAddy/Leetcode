@@ -390,6 +390,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/devXpraAddy/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/devXpraAddy/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/devXpraAddy/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/devXpraAddy/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
@@ -814,6 +815,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/devXpraAddy/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/devXpraAddy/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3639-zero-array-transformation-i](https://github.com/devXpraAddy/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
@@ -1268,6 +1270,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-zero-array-transformation-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Prefix Sum
@@ -1378,6 +1381,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/devXpraAddy/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/devXpraAddy/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3647-zero-array-transformation-iii](https://github.com/devXpraAddy/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/devXpraAddy/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -1516,6 +1520,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/devXpraAddy/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3647-zero-array-transformation-iii](https://github.com/devXpraAddy/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/devXpraAddy/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
