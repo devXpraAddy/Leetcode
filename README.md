@@ -742,6 +742,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devXpraAddy/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/devXpraAddy/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
+| [2574-left-and-right-sum-differences](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/devXpraAddy/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/devXpraAddy/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1299,6 +1300,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/devXpraAddy/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/devXpraAddy/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/devXpraAddy/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2574-left-and-right-sum-differences](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [2691-count-vowel-strings-in-ranges](https://github.com/devXpraAddy/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2906-construct-product-matrix](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
