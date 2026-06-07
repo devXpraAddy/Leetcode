@@ -250,6 +250,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/devXpraAddy/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -343,6 +344,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/devXpraAddy/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/devXpraAddy/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -703,6 +705,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/devXpraAddy/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/devXpraAddy/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/devXpraAddy/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/devXpraAddy/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/devXpraAddy/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devXpraAddy/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1111,6 +1114,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/devXpraAddy/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/devXpraAddy/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/devXpraAddy/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/devXpraAddy/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/devXpraAddy/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devXpraAddy/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
