@@ -387,6 +387,7 @@
 | [1923-sentence-similarity-iii](https://github.com/devXpraAddy/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/devXpraAddy/Leetcode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/devXpraAddy/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2232-adding-spaces-to-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/devXpraAddy/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1438,6 +1439,7 @@
 | [0860-design-circular-queue](https://github.com/devXpraAddy/Leetcode/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devXpraAddy/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2411-spiral-matrix-iv](https://github.com/devXpraAddy/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
