@@ -674,6 +674,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/devXpraAddy/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1741-sort-array-by-increasing-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/devXpraAddy/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/devXpraAddy/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -1317,6 +1318,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devXpraAddy/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/devXpraAddy/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/devXpraAddy/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/devXpraAddy/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
