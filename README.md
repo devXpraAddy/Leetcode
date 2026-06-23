@@ -104,6 +104,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/devXpraAddy/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/devXpraAddy/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/devXpraAddy/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1189-maximum-number-of-balloons](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1197-parsing-a-boolean-expression](https://github.com/devXpraAddy/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/devXpraAddy/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/devXpraAddy/Leetcode/tree/master/1304-longest-happy-string) |
@@ -1113,6 +1114,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/devXpraAddy/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devXpraAddy/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/devXpraAddy/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/devXpraAddy/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -1478,6 +1480,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/devXpraAddy/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/devXpraAddy/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/devXpraAddy/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/devXpraAddy/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/devXpraAddy/Leetcode/tree/master/1396-count-servers-that-communicate) |
