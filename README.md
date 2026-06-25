@@ -857,6 +857,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/devXpraAddy/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -1191,6 +1192,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/devXpraAddy/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/devXpraAddy/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/devXpraAddy/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1213,6 +1215,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/devXpraAddy/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1356,6 +1359,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/devXpraAddy/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/devXpraAddy/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Sorting
@@ -1509,6 +1513,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/devXpraAddy/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/devXpraAddy/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/devXpraAddy/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/devXpraAddy/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Brainteaser
@@ -1642,6 +1647,7 @@
 | [1622-fancy-sequence](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/devXpraAddy/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/devXpraAddy/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -1777,6 +1783,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/devXpraAddy/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/devXpraAddy/Leetcode/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
