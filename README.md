@@ -691,6 +691,7 @@
 | [1813-maximum-erasure-value](https://github.com/devXpraAddy/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/devXpraAddy/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1840-maximum-building-height](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/devXpraAddy/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -1399,6 +1400,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1741-sort-array-by-increasing-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1840-maximum-building-height](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/devXpraAddy/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/devXpraAddy/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/devXpraAddy/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -1546,6 +1548,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/devXpraAddy/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/devXpraAddy/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1917-maximum-average-pass-ratio](https://github.com/devXpraAddy/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-maximum-matrix-sum](https://github.com/devXpraAddy/Leetcode/tree/master/2089-maximum-matrix-sum) |
