@@ -131,6 +131,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/devXpraAddy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/devXpraAddy/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1944-truncate-sentence](https://github.com/devXpraAddy/Leetcode/tree/master/1944-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/devXpraAddy/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/devXpraAddy/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -706,6 +707,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/devXpraAddy/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/devXpraAddy/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-truncate-sentence](https://github.com/devXpraAddy/Leetcode/tree/master/1944-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1972-rotating-the-box](https://github.com/devXpraAddy/Leetcode/tree/master/1972-rotating-the-box) |
 | [1980-find-unique-binary-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devXpraAddy/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
