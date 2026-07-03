@@ -483,6 +483,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3618-find-the-original-typed-string-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/devXpraAddy/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/devXpraAddy/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -848,6 +849,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/devXpraAddy/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/devXpraAddy/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -944,6 +946,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/devXpraAddy/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/devXpraAddy/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3620-network-recovery-pathways](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/devXpraAddy/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/devXpraAddy/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -958,6 +961,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/devXpraAddy/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/devXpraAddy/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Breadth-First Search
@@ -1332,6 +1336,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-zero-array-transformation-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -1798,6 +1803,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/devXpraAddy/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devXpraAddy/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/devXpraAddy/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3620-network-recovery-pathways](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1849,6 +1855,7 @@
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
