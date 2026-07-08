@@ -66,6 +66,7 @@
 | [3700-number-of-zigzag-arrays-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/devXpraAddy/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
@@ -195,6 +196,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/devXpraAddy/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/devXpraAddy/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/devXpraAddy/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3838-weighted-word-mapping](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Stack
@@ -1393,6 +1395,7 @@
 | [3699-number-of-zigzag-arrays-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/devXpraAddy/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Sorting
