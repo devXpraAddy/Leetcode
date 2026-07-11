@@ -414,6 +414,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/devXpraAddy/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/devXpraAddy/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/devXpraAddy/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/devXpraAddy/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -486,6 +487,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/devXpraAddy/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3618-find-the-original-typed-string-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3620-network-recovery-pathways](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
@@ -561,6 +563,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/devXpraAddy/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/devXpraAddy/Leetcode/tree/master/3394-minimum-array-end) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/devXpraAddy/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -854,6 +857,7 @@
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/devXpraAddy/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/devXpraAddy/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -1347,6 +1351,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -1469,6 +1474,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/devXpraAddy/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/devXpraAddy/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3647-zero-array-transformation-iii](https://github.com/devXpraAddy/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/devXpraAddy/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -1612,6 +1618,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/devXpraAddy/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/devXpraAddy/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3647-zero-array-transformation-iii](https://github.com/devXpraAddy/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -1872,6 +1879,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Minimum Spanning Tree
