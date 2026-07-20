@@ -671,6 +671,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devXpraAddy/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1260-shift-2d-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1293-three-consecutive-odds](https://github.com/devXpraAddy/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1301-number-of-paths-with-max-score](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -1079,6 +1080,7 @@
 | [1036-rotting-oranges](https://github.com/devXpraAddy/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/devXpraAddy/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devXpraAddy/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1260-shift-2d-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1396-count-servers-that-communicate](https://github.com/devXpraAddy/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -1292,6 +1294,7 @@
 | [0412-fizz-buzz](https://github.com/devXpraAddy/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0906-walking-robot-simulation](https://github.com/devXpraAddy/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/devXpraAddy/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/devXpraAddy/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
