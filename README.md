@@ -55,6 +55,7 @@
 | [3321-type-of-triangle](https://github.com/devXpraAddy/Leetcode/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3548-find-the-count-of-good-integers](https://github.com/devXpraAddy/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -572,6 +573,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/devXpraAddy/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/devXpraAddy/Leetcode/tree/master/3394-minimum-array-end) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/devXpraAddy/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -868,6 +870,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devXpraAddy/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/devXpraAddy/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/devXpraAddy/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -1820,6 +1823,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/devXpraAddy/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3201-distribute-candies-among-children-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-find-the-count-of-good-integers](https://github.com/devXpraAddy/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
