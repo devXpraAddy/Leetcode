@@ -57,6 +57,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3548-find-the-count-of-good-integers](https://github.com/devXpraAddy/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -193,6 +194,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
@@ -1246,6 +1248,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/devXpraAddy/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3488-closest-equal-element-queries](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/devXpraAddy/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-find-the-count-of-good-integers](https://github.com/devXpraAddy/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -1593,6 +1596,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/devXpraAddy/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/devXpraAddy/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/devXpraAddy/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/devXpraAddy/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -1887,6 +1891,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devXpraAddy/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/devXpraAddy/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3548-find-the-count-of-good-integers](https://github.com/devXpraAddy/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/devXpraAddy/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
