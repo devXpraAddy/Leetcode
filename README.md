@@ -624,6 +624,7 @@
 | [0229-majority-element-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/devXpraAddy/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/devXpraAddy/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/devXpraAddy/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/devXpraAddy/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
@@ -1089,6 +1090,7 @@
 | [0074-search-a-2d-matrix](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/devXpraAddy/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/devXpraAddy/Leetcode/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/devXpraAddy/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/devXpraAddy/Leetcode/tree/master/0733-flood-fill) |
@@ -1280,6 +1282,7 @@
 | [0169-majority-element](https://github.com/devXpraAddy/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/devXpraAddy/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/devXpraAddy/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -1351,6 +1354,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/devXpraAddy/Leetcode/tree/master/0713-subarray-product-less-than-k) |
