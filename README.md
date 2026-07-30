@@ -49,6 +49,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3001-apply-operations-to-maximize-score](https://github.com/devXpraAddy/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/devXpraAddy/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/devXpraAddy/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -173,6 +174,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/devXpraAddy/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/devXpraAddy/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3093-longest-common-suffix-queries](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -1663,6 +1665,7 @@
 | [2716-prime-subtraction-operation](https://github.com/devXpraAddy/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/devXpraAddy/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/devXpraAddy/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/devXpraAddy/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devXpraAddy/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
