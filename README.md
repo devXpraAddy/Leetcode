@@ -16,6 +16,7 @@
 | [0368-largest-divisible-subset](https://github.com/devXpraAddy/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/devXpraAddy/Leetcode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0539-minimum-time-difference](https://github.com/devXpraAddy/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -459,6 +460,7 @@
 | [0396-rotate-function](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/devXpraAddy/Leetcode/tree/master/0472-concatenated-words) |
+| [0486-predict-the-winner](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/devXpraAddy/Leetcode/tree/master/0542-01-matrix) |
@@ -526,6 +528,7 @@
 | [0234-palindrome-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/devXpraAddy/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/devXpraAddy/Leetcode/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0781-basic-calculator-iv](https://github.com/devXpraAddy/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/devXpraAddy/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -639,6 +642,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/devXpraAddy/Leetcode/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/devXpraAddy/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/devXpraAddy/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -1958,4 +1962,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
