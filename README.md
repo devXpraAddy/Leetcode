@@ -23,6 +23,7 @@
 | [0670-maximum-swap](https://github.com/devXpraAddy/Leetcode/tree/master/0670-maximum-swap) |
 | [0781-basic-calculator-iv](https://github.com/devXpraAddy/Leetcode/tree/master/0781-basic-calculator-iv) |
 | [0797-rabbits-in-forest](https://github.com/devXpraAddy/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0877-stone-game](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/devXpraAddy/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -468,6 +469,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/devXpraAddy/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/devXpraAddy/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/devXpraAddy/Leetcode/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/devXpraAddy/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
@@ -671,6 +673,7 @@
 | [0854-making-a-large-island](https://github.com/devXpraAddy/Leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/devXpraAddy/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/devXpraAddy/Leetcode/tree/master/0860-design-circular-queue) |
+| [0877-stone-game](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devXpraAddy/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/devXpraAddy/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/devXpraAddy/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -1966,4 +1969,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
