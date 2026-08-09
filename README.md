@@ -191,6 +191,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/devXpraAddy/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devXpraAddy/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/devXpraAddy/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/devXpraAddy/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/devXpraAddy/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -438,6 +439,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/devXpraAddy/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/devXpraAddy/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/devXpraAddy/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
@@ -510,6 +512,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/devXpraAddy/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/devXpraAddy/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -1694,6 +1697,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/devXpraAddy/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/devXpraAddy/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/devXpraAddy/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/devXpraAddy/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/devXpraAddy/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
