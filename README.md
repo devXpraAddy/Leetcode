@@ -26,6 +26,7 @@
 | [0877-stone-game](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/devXpraAddy/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1236-n-th-tribonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
@@ -481,6 +482,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/devXpraAddy/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1140-stone-game-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1170-shortest-common-supersequence](https://github.com/devXpraAddy/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -700,6 +702,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/devXpraAddy/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/devXpraAddy/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/devXpraAddy/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1140-stone-game-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devXpraAddy/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -1436,6 +1439,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/devXpraAddy/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/devXpraAddy/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1370-count-number-of-nice-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/devXpraAddy/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1990,15 +1994,18 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
