@@ -75,6 +75,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/devXpraAddy/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/devXpraAddy/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/devXpraAddy/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
