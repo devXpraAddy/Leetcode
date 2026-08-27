@@ -222,6 +222,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/devXpraAddy/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/devXpraAddy/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/devXpraAddy/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/devXpraAddy/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -1309,6 +1310,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/devXpraAddy/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/devXpraAddy/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -1668,6 +1670,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/devXpraAddy/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/devXpraAddy/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/devXpraAddy/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1739,6 +1742,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/devXpraAddy/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/devXpraAddy/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devXpraAddy/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1920,6 +1924,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/devXpraAddy/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/devXpraAddy/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/devXpraAddy/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
