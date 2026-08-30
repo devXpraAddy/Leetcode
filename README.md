@@ -795,6 +795,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2079-delete-duplicate-folders-in-system](https://github.com/devXpraAddy/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/devXpraAddy/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2107-find-unique-binary-string](https://github.com/devXpraAddy/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/devXpraAddy/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/devXpraAddy/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -1709,6 +1710,7 @@
 | [2029-stone-game-ix](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-maximum-matrix-sum](https://github.com/devXpraAddy/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/devXpraAddy/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/devXpraAddy/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/devXpraAddy/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
