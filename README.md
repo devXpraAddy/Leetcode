@@ -87,6 +87,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -969,6 +970,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/devXpraAddy/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3838-weighted-word-mapping](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
