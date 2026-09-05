@@ -972,6 +972,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1517,6 +1518,7 @@
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/devXpraAddy/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3903-smallest-stable-index-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
