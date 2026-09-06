@@ -96,6 +96,7 @@
 | [0010-regular-expression-matching](https://github.com/devXpraAddy/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/devXpraAddy/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/devXpraAddy/Leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/devXpraAddy/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -467,6 +468,7 @@
 | [0063-unique-paths-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/devXpraAddy/Leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/devXpraAddy/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devXpraAddy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/devXpraAddy/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
