@@ -121,6 +121,7 @@
 | [0812-rotate-string](https://github.com/devXpraAddy/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/devXpraAddy/Leetcode/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/devXpraAddy/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [0952-word-subsets](https://github.com/devXpraAddy/Leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/devXpraAddy/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/devXpraAddy/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -494,6 +495,7 @@
 | [0877-stone-game](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/devXpraAddy/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/devXpraAddy/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1140-stone-game-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
