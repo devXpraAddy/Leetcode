@@ -87,6 +87,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## String
