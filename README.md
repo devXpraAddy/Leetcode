@@ -303,6 +303,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/devXpraAddy/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -361,6 +362,7 @@
 | [2035-count-sub-islands](https://github.com/devXpraAddy/Leetcode/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/devXpraAddy/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -404,6 +406,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/devXpraAddy/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/devXpraAddy/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
