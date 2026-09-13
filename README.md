@@ -709,6 +709,7 @@
 | [0797-rabbits-in-forest](https://github.com/devXpraAddy/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/devXpraAddy/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/devXpraAddy/Leetcode/tree/master/0817-design-hashmap) |
+| [0835-image-overlap](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0854-making-a-large-island](https://github.com/devXpraAddy/Leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/devXpraAddy/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/devXpraAddy/Leetcode/tree/master/0860-design-circular-queue) |
@@ -1164,6 +1165,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/devXpraAddy/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/devXpraAddy/Leetcode/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0854-making-a-large-island](https://github.com/devXpraAddy/Leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/devXpraAddy/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/devXpraAddy/Leetcode/tree/master/1036-rotting-oranges) |
