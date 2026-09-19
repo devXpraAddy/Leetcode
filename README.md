@@ -30,6 +30,7 @@
 | [1140-stone-game-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1236-n-th-tribonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devXpraAddy/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devXpraAddy/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -2050,6 +2051,7 @@
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [1014-k-closest-points-to-origin](https://github.com/devXpraAddy/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
