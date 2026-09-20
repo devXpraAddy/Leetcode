@@ -221,6 +221,7 @@
 | [3451-string-compression-iii](https://github.com/devXpraAddy/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/devXpraAddy/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -1433,6 +1434,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/devXpraAddy/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/devXpraAddy/Leetcode/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/devXpraAddy/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
