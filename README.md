@@ -783,6 +783,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devXpraAddy/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devXpraAddy/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/devXpraAddy/Leetcode/tree/master/1656-count-good-triplets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/devXpraAddy/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/devXpraAddy/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -1290,6 +1291,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/devXpraAddy/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1694-make-sum-divisible-by-p](https://github.com/devXpraAddy/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/devXpraAddy/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -1468,6 +1470,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/devXpraAddy/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/devXpraAddy/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/devXpraAddy/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/devXpraAddy/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/devXpraAddy/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1522,6 +1525,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devXpraAddy/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1694-make-sum-divisible-by-p](https://github.com/devXpraAddy/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
@@ -1933,6 +1937,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/devXpraAddy/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1755-defuse-the-bomb](https://github.com/devXpraAddy/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/devXpraAddy/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
