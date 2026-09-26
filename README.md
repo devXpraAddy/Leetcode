@@ -161,6 +161,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1786-count-the-number-of-consistent-strings](https://github.com/devXpraAddy/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1818-maximum-score-from-removing-substrings](https://github.com/devXpraAddy/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-jump-game-vii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/devXpraAddy/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -797,6 +798,7 @@
 | [1755-defuse-the-bomb](https://github.com/devXpraAddy/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/devXpraAddy/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/devXpraAddy/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1813-maximum-erasure-value](https://github.com/devXpraAddy/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/devXpraAddy/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1840-maximum-building-height](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
@@ -1302,6 +1304,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/devXpraAddy/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/devXpraAddy/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/devXpraAddy/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1813-maximum-erasure-value](https://github.com/devXpraAddy/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/devXpraAddy/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
