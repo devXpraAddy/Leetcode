@@ -140,6 +140,7 @@
 | [1160-letter-tile-possibilities](https://github.com/devXpraAddy/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/devXpraAddy/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1197-parsing-a-boolean-expression](https://github.com/devXpraAddy/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/devXpraAddy/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/devXpraAddy/Leetcode/tree/master/1304-longest-happy-string) |
@@ -269,6 +270,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/devXpraAddy/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1197-parsing-a-boolean-expression](https://github.com/devXpraAddy/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/devXpraAddy/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/devXpraAddy/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -2144,4 +2146,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
