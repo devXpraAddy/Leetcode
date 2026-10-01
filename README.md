@@ -102,6 +102,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/devXpraAddy/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/devXpraAddy/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/devXpraAddy/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/devXpraAddy/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/devXpraAddy/Leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
@@ -252,6 +253,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/devXpraAddy/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -2156,6 +2158,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
