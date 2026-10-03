@@ -104,6 +104,7 @@
 | [0010-regular-expression-matching](https://github.com/devXpraAddy/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/devXpraAddy/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/devXpraAddy/Leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
@@ -255,6 +256,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/devXpraAddy/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/devXpraAddy/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -491,6 +493,7 @@
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/devXpraAddy/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/devXpraAddy/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/devXpraAddy/Leetcode/tree/master/0062-unique-paths) |
@@ -2163,6 +2166,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
