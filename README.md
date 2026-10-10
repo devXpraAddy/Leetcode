@@ -885,6 +885,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/devXpraAddy/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/devXpraAddy/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/devXpraAddy/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -1089,6 +1090,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/devXpraAddy/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/devXpraAddy/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/devXpraAddy/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devXpraAddy/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/devXpraAddy/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/devXpraAddy/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1523,6 +1525,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/devXpraAddy/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/devXpraAddy/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/devXpraAddy/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/devXpraAddy/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/devXpraAddy/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1647,6 +1650,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/devXpraAddy/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/devXpraAddy/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/devXpraAddy/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/devXpraAddy/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/devXpraAddy/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1819,6 +1823,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/devXpraAddy/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/devXpraAddy/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/devXpraAddy/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/devXpraAddy/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/devXpraAddy/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
