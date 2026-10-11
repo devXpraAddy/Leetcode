@@ -939,6 +939,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/devXpraAddy/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2792-neighboring-bitwise-xor](https://github.com/devXpraAddy/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -2034,6 +2035,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/devXpraAddy/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/devXpraAddy/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/devXpraAddy/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3201-distribute-candies-among-children-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
