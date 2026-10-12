@@ -660,6 +660,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/devXpraAddy/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/devXpraAddy/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/devXpraAddy/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3291-find-if-array-can-be-sorted](https://github.com/devXpraAddy/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/devXpraAddy/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -946,6 +947,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/devXpraAddy/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2915-count-of-interesting-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -1375,6 +1377,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/devXpraAddy/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2915-count-of-interesting-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1840,6 +1843,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/devXpraAddy/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/devXpraAddy/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3001-apply-operations-to-maximize-score](https://github.com/devXpraAddy/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
