@@ -87,6 +87,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/devXpraAddy/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/devXpraAddy/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -1863,6 +1864,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/devXpraAddy/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devXpraAddy/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
