@@ -950,6 +950,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/devXpraAddy/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2915-count-of-interesting-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -1380,6 +1381,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2915-count-of-interesting-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1939,6 +1941,7 @@
 | [0731-my-calendar-ii](https://github.com/devXpraAddy/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1622-fancy-sequence](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/devXpraAddy/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3525-find-x-value-of-array-ii/) | Hard |
@@ -2074,6 +2077,7 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/devXpraAddy/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Topological Sort
 | Problem Name | Difficulty |
