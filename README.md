@@ -38,6 +38,7 @@
 | [1510-stone-game-iv](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/devXpraAddy/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1563-stone-game-v](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1622-fancy-sequence](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1622-fancy-sequence/) | Hard |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devXpraAddy/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -337,6 +338,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -440,6 +442,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/devXpraAddy/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -552,6 +555,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devXpraAddy/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -625,6 +629,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/devXpraAddy/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/devXpraAddy/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/devXpraAddy/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/devXpraAddy/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/devXpraAddy/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -808,6 +813,7 @@
 | [1524-string-matching-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1563-stone-game-v](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/devXpraAddy/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -1438,6 +1444,7 @@
 | [0347-top-k-frequent-elements](https://github.com/devXpraAddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devXpraAddy/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/devXpraAddy/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -2113,6 +2120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/devXpraAddy/Leetcode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devXpraAddy/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/devXpraAddy/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -2126,6 +2134,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/devXpraAddy/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2143,6 +2152,7 @@
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/2573-find-the-string-with-lcp/) | Hard |
@@ -2220,4 +2230,8 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
