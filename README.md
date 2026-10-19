@@ -864,6 +864,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2079-delete-duplicate-folders-in-system](https://github.com/devXpraAddy/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/devXpraAddy/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2107-find-unique-binary-string](https://github.com/devXpraAddy/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/devXpraAddy/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -1539,6 +1540,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/devXpraAddy/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/devXpraAddy/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/devXpraAddy/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/devXpraAddy/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/devXpraAddy/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1663,6 +1665,7 @@
 | [1840-maximum-building-height](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/devXpraAddy/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/devXpraAddy/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/devXpraAddy/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/devXpraAddy/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
