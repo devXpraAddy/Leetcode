@@ -260,6 +260,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3838-weighted-word-mapping](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
