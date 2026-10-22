@@ -1054,6 +1054,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
