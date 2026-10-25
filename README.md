@@ -50,6 +50,7 @@
 | [2155-find-missing-observations](https://github.com/devXpraAddy/Leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/devXpraAddy/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/devXpraAddy/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2409-count-days-spent-together](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/devXpraAddy/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/devXpraAddy/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/devXpraAddy/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -200,6 +201,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/devXpraAddy/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/devXpraAddy/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/devXpraAddy/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/2409-count-days-spent-together/) | Easy |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/devXpraAddy/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
