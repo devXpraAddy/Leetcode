@@ -608,6 +608,7 @@
 | [3699-number-of-zigzag-arrays-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -686,6 +687,7 @@
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1060,6 +1062,7 @@
 | [3838-weighted-word-mapping](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -1298,6 +1301,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
