@@ -989,6 +989,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3093-longest-common-suffix-queries/) | Hard |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
