@@ -37,6 +37,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/devXpraAddy/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/devXpraAddy/Leetcode/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/devXpraAddy/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1563-stone-game-v](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -567,6 +568,7 @@
 | [1406-stone-game-iii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -832,6 +834,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/devXpraAddy/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/devXpraAddy/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1563-stone-game-v](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -1626,6 +1629,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/devXpraAddy/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/devXpraAddy/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/devXpraAddy/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/devXpraAddy/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/devXpraAddy/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
