@@ -1084,6 +1084,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Graph
 | Problem Name | Difficulty |
@@ -1471,6 +1472,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/devXpraAddy/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/devXpraAddy/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3934-smallest-unique-subarray](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1614,6 +1616,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-zero-array-transformation-ii](https://github.com/devXpraAddy/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1939,6 +1942,7 @@
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/devXpraAddy/Leetcode/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/devXpraAddy/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1960,6 +1964,7 @@
 | [0817-design-hashmap](https://github.com/devXpraAddy/Leetcode/tree/master/0817-design-hashmap) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/devXpraAddy/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/devXpraAddy/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2289,4 +2294,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/devXpraAddy/Leetcode/tree/main/LeetCode/Hard/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
